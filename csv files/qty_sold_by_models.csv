@@ -1,0 +1,1061 @@
+brand_model,transmission,quantity_sold
+"Nissan Altima",automatic,14747
+"Ford F-150",automatic,10152
+"Toyota Camry",automatic,10138
+"Ford Fusion",automatic,9777
+"Ford Escape",automatic,8850
+"Honda Accord",automatic,7856
+"Ford Focus",automatic,7715
+"Chevrolet Impala",automatic,7066
+"Dodge Grand Caravan",automatic,6450
+"Infiniti G Sedan",automatic,6360
+"Toyota Corolla",automatic,6197
+"Honda Civic",automatic,6048
+"Chevrolet Malibu",automatic,5879
+"BMW 3 Series",automatic,5856
+"Hyundai Sonata",automatic,5364
+"Chevrolet Silverado 1500",automatic,5239
+"Ford Explorer",automatic,5031
+"Hyundai Elantra",automatic,4949
+"Nissan Maxima",automatic,4936
+"Chevrolet Cruze",automatic,4920
+"Chrysler Town and Country",automatic,4786
+"Ford Edge",automatic,4197
+"Chevrolet Equinox",automatic,3966
+"Nissan Rogue",automatic,3855
+"Dodge Charger",automatic,3676
+"Nissan Sentra",automatic,3573
+"Dodge Avenger",automatic,3557
+"Kia Optima",automatic,3515
+"Mercedes-Benz C-Class",automatic,3496
+"Chrysler 200",automatic,3483
+"Jeep Grand Cherokee",automatic,3398
+"Ford Taurus",automatic,3360
+"Ford Mustang",automatic,3125
+"Chrysler 300",automatic,3049
+"BMW 5 Series",automatic,3017
+"Volkswagen Jetta",automatic,2974
+"Honda Odyssey",automatic,2800
+"Toyota RAV4",automatic,2785
+"Kia Sorento",automatic,2751
+"Ram 1500",automatic,2609
+"Chevrolet Tahoe",automatic,2555
+"Mercedes-Benz E-Class",automatic,2550
+"Honda CR-V",automatic,2509
+"Dodge Journey",automatic,2486
+"Volkswagen Passat",automatic,2326
+"Toyota Sienna",automatic,2297
+"Kia Forte",automatic,2282
+"Nissan Murano",automatic,2203
+"Kia Soul",automatic,2072
+"Nissan Versa",automatic,2018
+"Chevrolet Suburban",automatic,1994
+"Jeep Liberty",automatic,1976
+"Mazda Mazda3",automatic,1967
+"Ford F-250 Super Duty",automatic,1934
+"Jeep Wrangler",automatic,1916
+"GMC Sierra 1500",automatic,1894
+"Ford Expedition",automatic,1868
+"Lexus RX 350",automatic,1838
+"BMW X5",automatic,1727
+"Ford Fiesta",automatic,1688
+"Honda Pilot",automatic,1667
+"Dodge Ram Pickup 1500",automatic,1659
+"Toyota Prius",automatic,1655
+"Chevrolet Traverse",automatic,1602
+"Lexus IS 250",automatic,1595
+"Hyundai Accent",automatic,1566
+"Audi A4",automatic,1565
+"Dodge Durango",automatic,1550
+"Toyota Highlander",automatic,1548
+"Lexus ES 350",automatic,1546
+"Acura TL",automatic,1541
+"GMC Acadia",automatic,1526
+"Cadillac CTS",automatic,1507
+"Chevrolet Sonic",automatic,1454
+"Nissan Pathfinder",automatic,1453
+"Pontiac G6",automatic,1451
+"Jeep Patriot",automatic,1391
+"Hyundai Santa Fe",automatic,1341
+"Mercedes-Benz M-Class",automatic,1305
+"Chevrolet Cobalt",automatic,1303
+"Chevrolet Camaro",automatic,1296
+"Infiniti G Coupe",automatic,1284
+"Nissan Leaf",automatic,1239
+"Kia Rio",automatic,1173
+"Chevrolet Silverado 2500HD",automatic,1161
+"Chrysler Sebring",automatic,1155
+"Acura MDX",automatic,1144
+"Mazda Mazda6",automatic,1136
+"Lincoln MKZ",automatic,1129
+"GMC Yukon",automatic,1112
+"Subaru Outback",automatic,1097
+"Dodge Caliber",automatic,1089
+"Toyota 4Runner",automatic,1062
+"Ford E-Series Van",automatic,1053
+"Jeep Compass",automatic,1049
+"Mercedes-Benz S-Class",automatic,1041
+"Toyota Yaris",automatic,1031
+"GMC Yukon XL",automatic,1030
+"Chevrolet Impala Limited",automatic,1014
+"Kia Sportage",automatic,1009
+"Chrysler PT Cruiser",automatic,1008
+"Toyota Tundra",automatic,1007
+"Buick LaCrosse",automatic,990
+"Chevrolet TrailBlazer",automatic,985
+"BMW 7 Series",automatic,950
+"Ford Ranger",automatic,942
+"Chevrolet HHR",automatic,935
+"GMC Terrain",automatic,933
+"Chevrolet Avalanche",automatic,927
+"Cadillac SRX",automatic,923
+"Chevrolet Express Cargo",automatic,922
+"Ford Flex",automatic,908
+"MINI Cooper",automatic,906
+"BMW X3",automatic,902
+"Cadillac Escalade",automatic,894
+"Ford F-350 Super Duty",automatic,892
+"Jeep Wrangler",manual,883
+"Subaru Legacy",automatic,876
+"Toyota Tacoma",automatic,865
+"Pontiac Grand Prix",automatic,863
+"Volvo S60",automatic,861
+"Toyota Avalon",automatic,856
+"Chevrolet Captiva Sport",automatic,852
+"Buick Enclave",automatic,850
+"Dodge Challenger",automatic,829
+"Infiniti G35",automatic,813
+"Dodge Dart",automatic,791
+"Nissan Frontier",automatic,788
+"Kia Sedona",automatic,786
+"Mitsubishi Lancer",automatic,780
+"Lincoln MKX",automatic,769
+"Mercedes-Benz GL-Class",automatic,755
+"Ram 2500",automatic,742
+"Ford E-Series Wagon",automatic,735
+"Nissan Xterra",automatic,733
+"Hyundai Genesis",automatic,717
+"Ford Mustang",manual,714
+"Acura TSX",automatic,713
+"Subaru Forester",automatic,701
+"Honda Civic",manual,701
+"Hyundai Tucson",automatic,686
+"Chevrolet Colorado",automatic,686
+"Saturn VUE",automatic,673
+"Nissan Armada",automatic,668
+"Infiniti M",automatic,660
+"Nissan Titan",automatic,654
+"Lexus GS 350",automatic,648
+"Chevrolet Aveo",automatic,635
+"Mercedes-Benz GLK-Class",automatic,634
+"Audi A6",automatic,607
+"Mazda CX-9",automatic,594
+"MINI Cooper",manual,585
+"Lincoln Navigator",automatic,577
+"Jeep Commander",automatic,573
+"Lincoln MKS",automatic,558
+"Nissan Quest",automatic,555
+"GMC Envoy",automatic,547
+"Volvo XC90",automatic,543
+"Volkswagen New Beetle",automatic,541
+"GMC Savana Cargo",automatic,533
+"Land Rover Range Rover Sport",automatic,520
+"Dodge Nitro",automatic,510
+"Toyota Camry Hybrid",automatic,509
+"Cadillac DeVille",automatic,509
+"Subaru Impreza",automatic,501
+"Mazda Mazda5",automatic,495
+"Hyundai Sonata Hybrid",automatic,492
+"Mitsubishi Galant",automatic,486
+"Ford Transit Connect",automatic,486
+"BMW 6 Series",automatic,481
+"Cadillac Escalade ESV",automatic,478
+"Buick Regal",automatic,471
+"Volkswagen Jetta",manual,464
+"Volkswagen CC",automatic,461
+"Cadillac DTS",automatic,454
+"Ford Econoline Cargo",automatic,453
+"Lexus LS 460",automatic,449
+"Mitsubishi Outlander",automatic,448
+"Dodge Dakota",automatic,447
+"Infiniti Q50",automatic,441
+"Buick Lucerne",automatic,439
+"Chevrolet Volt",automatic,438
+"Ford Fusion Hybrid",automatic,434
+"Scion tC",automatic,425
+"Toyota Venza",automatic,424
+"Porsche Cayenne",automatic,423
+"Jeep Cherokee",automatic,421
+"Toyota Sequoia",automatic,418
+"BMW 3 Series",manual,417
+"Mazda CX-5",automatic,417
+"Volkswagen Tiguan",automatic,413
+"Buick LeSabre",automatic,390
+"Nissan Versa Note",automatic,386
+"GMC Sierra 2500HD",automatic,386
+"Saturn Aura",automatic,383
+"Audi Q5",automatic,376
+"Lexus CT 200h",automatic,374
+"Dodge Ram Pickup 2500",automatic,368
+"Hyundai Veloster",automatic,366
+"Lexus RX 330",automatic,365
+"Mitsubishi Outlander Sport",automatic,362
+"Nissan Juke",automatic,361
+"Mercedes-Benz CLK-Class",automatic,361
+"Infiniti QX56",automatic,359
+"Saturn ION",automatic,356
+"Ford Focus",manual,353
+"Pontiac Grand Am",automatic,353
+"HUMMER H3",automatic,348
+"Mercury Grand Marquis",automatic,346
+"Mercedes-Benz SL-Class",automatic,342
+"Volkswagen Beetle",automatic,339
+"Kia Spectra",automatic,336
+"Lexus LS 430",automatic,332
+"Audi Q7",automatic,330
+"Chevrolet Monte Carlo",automatic,329
+"Chevrolet Camaro",manual,326
+"smart fortwo",automatic,324
+"Dodge Magnum",automatic,324
+"Honda Fit",automatic,321
+"Ford Five Hundred",automatic,320
+"Mercedes-Benz CLS-Class",automatic,319
+"Scion xB",automatic,315
+"Jaguar XF",automatic,309
+"Volvo XC60",automatic,309
+"Toyota FJ Cruiser",automatic,300
+"Infiniti FX",automatic,298
+"Volvo S40",automatic,298
+"FIAT 500",automatic,297
+"Subaru Impreza",manual,295
+"Chevrolet Uplander",automatic,295
+"Land Rover Range Rover",automatic,293
+"Mazda Mazda2",automatic,291
+"Mazda CX-7",automatic,290
+"Honda Accord",manual,288
+"Chevrolet Cavalier",automatic,286
+"Toyota Camry Solara",automatic,285
+"Lexus ES 300",automatic,283
+"Buick Verano",automatic,283
+"Honda Crosstour",automatic,281
+"Acura RDX",automatic,280
+"Mazda Mazda3",manual,280
+"Lexus ES 330",automatic,278
+"Infiniti JX",automatic,277
+"Chevrolet Blazer",automatic,275
+"Chevrolet Corvette",automatic,273
+"Hyundai Azera",automatic,263
+"Ford C-Max Hybrid",automatic,263
+"BMW 1 Series",automatic,262
+"Mercury Mountaineer",automatic,260
+"MINI Cooper Countryman",automatic,259
+"HUMMER H2",automatic,258
+"Chevrolet Spark",automatic,257
+"Hyundai Santa Fe Sport",automatic,252
+"Chevrolet Express",automatic,248
+"Mercedes-Benz R-Class",automatic,248
+"Ford Explorer Sport Trac",automatic,247
+"Dodge Stratus",automatic,247
+"Ford Freestyle",automatic,245
+"Lexus RX 300",automatic,241
+"Infiniti G Convertible",automatic,240
+"Ford Ranger",manual,240
+"Saturn Outlook",automatic,239
+"Mitsubishi Eclipse",automatic,239
+"Audi A5",automatic,238
+"Infiniti FX35",automatic,238
+"Buick Rendezvous",automatic,235
+"Volkswagen Touareg",automatic,234
+"Cadillac STS",automatic,233
+"Mercury Mariner",automatic,233
+"BMW X1",automatic,230
+"Mercury Milan",automatic,229
+"Audi A8",automatic,228
+"Toyota Matrix",automatic,226
+"Pontiac Torrent",automatic,226
+"Saab 9-3",automatic,225
+"Ford Freestar",automatic,225
+"Volvo S80",automatic,222
+"Lincoln Town Car",automatic,222
+"Toyota Corolla",manual,220
+"Saturn S-Series",automatic,220
+"Kia Soul",manual,219
+"Mercedes-Benz SLK-Class",automatic,218
+"Suzuki SX4",automatic,217
+"GMC Envoy XL",automatic,212
+"Porsche Panamera",automatic,211
+"BMW 4 Series",automatic,208
+"Kia Cadenza",automatic,207
+"Jaguar S-Type",automatic,206
+"Infiniti M35",automatic,205
+"Honda Element",automatic,203
+"Honda Insight",automatic,199
+"FIAT 500L",automatic,197
+"Volkswagen Golf",automatic,196
+"BMW X6",automatic,193
+"Suzuki Forenza",automatic,193
+"Ram 3500",automatic,192
+"Ford C-Max Energi",automatic,189
+"Nissan Cube",automatic,187
+"Chrysler Aspen",automatic,187
+"Chrysler Pacifica",automatic,184
+"Dodge Challenger",manual,183
+"Dodge Caravan",automatic,182
+"Lincoln LS",automatic,180
+"Hyundai Elantra GT",automatic,180
+"Buick Century",automatic,179
+"Volkswagen GTI",automatic,178
+"Chevrolet Corvette",manual,178
+"Mazda Tribute",automatic,178
+"Audi A3",automatic,177
+"Lexus GS 300",automatic,177
+"Mercury Sable",automatic,177
+"Lexus GX 460",automatic,176
+"Mitsubishi Mirage",automatic,176
+"Toyota Highlander Hybrid",automatic,175
+"MINI Cooper Clubman",automatic,172
+"Chevrolet Cruze",manual,172
+"Hyundai Genesis Coupe",automatic,171
+"Honda Ridgeline",automatic,171
+"Jaguar XJ",automatic,169
+"Dodge Neon",automatic,169
+"Subaru XV Crosstrek",automatic,168
+"Scion tC",manual,168
+"Suzuki Grand Vitara",automatic,166
+"Chevrolet TrailBlazer EXT",automatic,166
+"BMW Z4",automatic,164
+"Volkswagen Routan",automatic,163
+"Pontiac Vibe",automatic,161
+"Infiniti QX",automatic,160
+"Lexus IS 350",automatic,157
+"Audi A4",manual,157
+"Saturn L-Series",automatic,157
+"Chevrolet Silverado 1500 Classic",automatic,155
+"Chevrolet S-10",automatic,155
+"Hyundai Elantra",manual,154
+"Infiniti G37",automatic,154
+"Mitsubishi Endeavor",automatic,154
+"Volkswagen GTI",manual,153
+"Infiniti QX60",automatic,152
+"Nissan Sentra",manual,152
+"Nissan Versa",manual,151
+"FIAT 500",manual,150
+"Cadillac ATS",automatic,150
+"Chevrolet Malibu Maxx",automatic,149
+"Jaguar X-Type",automatic,148
+"Chevrolet Cobalt",manual,148
+"Chevrolet Venture",automatic,148
+"Ford Fiesta",manual,143
+"Jaguar XJ-Series",automatic,143
+"Lexus RX 400h",automatic,142
+"Volkswagen Jetta SportWagen",automatic,140
+"Mitsubishi Lancer",manual,138
+"Kia Rondo",automatic,137
+"Hyundai Veloster",manual,137
+"Volvo V70",automatic,136
+"Cadillac Seville",automatic,134
+"Chevrolet Silverado 3500HD",automatic,134
+"Lexus RX 450h",automatic,133
+"Scion xD",automatic,132
+"Toyota Tacoma",manual,128
+"Hyundai Veracruz",automatic,127
+"Mercedes-Benz CL-Class",automatic,126
+"Cadillac XTS",automatic,126
+"Volkswagen Eos",automatic,125
+"Suzuki XL7",automatic,125
+"Mitsubishi Montero Sport",automatic,124
+"Porsche 911",automatic,123
+"BMW 5 Series Gran Turismo",automatic,122
+"Cadillac Escalade EXT",automatic,118
+"BMW M3",automatic,117
+"Audi S4",automatic,116
+"Dodge Ram Pickup 3500",automatic,116
+"Scion iQ",automatic,116
+"Ford Escape Hybrid",automatic,113
+"Hyundai Accent",manual,112
+"Land Rover LR4",automatic,111
+"Infiniti EX",automatic,111
+"Lincoln MKT",automatic,111
+"Porsche Boxster",manual,111
+"Cadillac CTS Coupe",automatic,109
+"Volkswagen New Beetle",manual,109
+"Toyota Prius c",automatic,109
+"Hyundai Equus",automatic,108
+"Oldsmobile Alero",automatic,108
+"Pontiac Bonneville",automatic,108
+"Dodge Dart",manual,107
+"Nissan Frontier",manual,107
+"Ford Windstar",automatic,107
+"Lexus IS 250 C",automatic,105
+"Mazda MX-5 Miata",manual,103
+"Volvo XC70",automatic,102
+"Volvo C70",automatic,102
+"Mitsubishi Eclipse Spyder",automatic,102
+"Buick Park Avenue",automatic,101
+"Mazda Mazda6",manual,101
+"Land Rover Range Rover Evoque",automatic,100
+"GMC Canyon",automatic,100
+"Lincoln Aviator",automatic,100
+"Mazda MPV",automatic,100
+"Audi A7",automatic,99
+"Mercedes-Benz CLA-Class",automatic,99
+"Nissan 370Z",automatic,98
+"Ford Excursion",automatic,98
+"Dodge Sprinter Cargo",automatic,97
+"Toyota Prius v",automatic,96
+"Hyundai Tiburon",automatic,96
+"Lexus IS 300",automatic,96
+"MINI Cooper Clubman",manual,95
+"Honda Accord Crosstour",automatic,95
+"Nissan Altima",manual,94
+"Porsche Boxster",automatic,93
+"Subaru Impreza WRX",manual,92
+"Mitsubishi Eclipse",manual,92
+"Land Rover LR2",automatic,91
+"Lexus GX 470",automatic,90
+"Ford F-150",manual,90
+"Mazda MX-5 Miata",automatic,89
+"Volkswagen Passat",manual,89
+"Acura ILX",automatic,88
+"Scion FR-S",manual,88
+"Infiniti I35",automatic,88
+"Infiniti G Coupe",manual,87
+"Hyundai Elantra Touring",automatic,86
+"Pontiac G5",automatic,85
+"Mitsubishi Lancer Evolution",manual,85
+"Jeep Patriot",manual,85
+"Acura RL",automatic,85
+"Toyota Yaris",manual,84
+"Infiniti QX80",automatic,84
+"Ford Crown Victoria",automatic,84
+"Scion xB",manual,83
+"Dodge Intrepid",automatic,83
+"Nissan Rogue Select",automatic,83
+"Pontiac G8",automatic,83
+"Lincoln Zephyr",automatic,83
+"Infiniti G35",manual,82
+"Buick Rainier",automatic,82
+"Lexus SC 430",automatic,81
+"Lexus LX 570",automatic,80
+"Chrysler 300M",automatic,80
+"Mercury Montego",automatic,79
+"Toyota Land Cruiser",automatic,78
+"Kia Amanti",automatic,78
+"Buick Encore",automatic,78
+"Acura CL",automatic,77
+"BMW 6 Series Gran Coupe",automatic,76
+"Audi S5",automatic,76
+"BMW M3",manual,76
+"Ford Explorer Sport",automatic,76
+"Kia Rio",manual,75
+"Honda CR-Z",automatic,75
+"Jaguar XK",automatic,74
+"Nissan Altima Hybrid",automatic,74
+"Ford Econoline Wagon",automatic,74
+"Ford Shelby GT500",manual,74
+"Isuzu Rodeo",automatic,74
+"Jaguar XK-Series",automatic,73
+"Chevrolet Sonic",manual,73
+"Hyundai Elantra Coupe",automatic,72
+"Ford Escort",automatic,72
+"MINI Cooper Countryman",manual,72
+"Volvo V60",automatic,71
+"Ford Thunderbird",automatic,71
+"Hyundai Genesis Coupe",manual,71
+"Mazda Protege",automatic,71
+"Infiniti M37",automatic,70
+"Lexus LS 400",automatic,70
+"Kia Forte",manual,70
+"Kia Borrego",automatic,69
+"Honda Fit",manual,68
+"Subaru B9 Tribeca",automatic,68
+"Pontiac Montana",automatic,68
+"Nissan 370Z",manual,67
+"Pontiac Sunfire",automatic,67
+"Dodge Caliber",manual,67
+"Toyota Camry",manual,67
+"BMW 5 Series",manual,66
+"Acura RSX",manual,65
+"Ford Taurus X",automatic,65
+"Lexus HS 250h",automatic,63
+"BMW M5",automatic,62
+"Saturn ION",manual,62
+"Saturn VUE",manual,62
+"Hyundai XG350",automatic,62
+"Lexus ES 300h",automatic,61
+"Chevrolet Aveo",manual,61
+"Chrysler Concorde",automatic,60
+"Saturn S-Series",manual,60
+"Hyundai Tiburon",manual,60
+"Hyundai Entourage",automatic,59
+"Acura RSX",automatic,58
+"Kia Spectra",manual,58
+"Ford Fusion",manual,58
+"Ford F-450 Super Duty",automatic,57
+"Mazda 626",automatic,57
+"Lincoln Continental",automatic,56
+"Subaru Legacy",manual,56
+"Saab 9-3",manual,56
+"Infiniti M45",automatic,55
+"HUMMER H2 SUT",automatic,55
+"Infiniti QX70",automatic,55
+"Chrysler PT Cruiser",manual,55
+"Volvo S70",automatic,55
+"Ram Promaster Cargo Van",automatic,55
+"Scion FR-S",automatic,54
+"Dodge Ram Pickup 1500",manual,54
+"Lincoln Mark LT",automatic,54
+"Chevrolet Silverado 2500HD Classic",automatic,54
+"Saturn Relay",automatic,54
+"Kia K900",automatic,53
+"Audi TT",automatic,53
+"Volkswagen Rabbit",automatic,53
+"Nissan Xterra",manual,53
+"Subaru Forester",manual,53
+"Saab 9-5",automatic,52
+"Subaru Tribeca",automatic,52
+"Chevrolet Corvette Stingray",automatic,52
+"Infiniti EX35",automatic,52
+"Suzuki XL-7",automatic,51
+"Porsche 911",manual,51
+"Nissan GT-R",automatic,50
+"Mercedes-Benz Sprinter",automatic,50
+"Mercedes-Benz G-Class",automatic,49
+"Nissan 350Z",automatic,49
+"GMC Envoy XUV",automatic,48
+"Buick Terraza",automatic,48
+"Maserati Quattroporte",automatic,48
+"BMW 3 Series Gran Turismo",automatic,48
+"Mitsubishi Montero",automatic,47
+"Subaru Outback",manual,47
+"Cadillac Eldorado",automatic,47
+"Audi TT",manual,47
+"Infiniti I30",automatic,46
+"Saab 9-7X",automatic,46
+"Toyota Celica",automatic,46
+"Infiniti QX4",automatic,45
+"Mazda Millenia",automatic,45
+"GMC Sierra 3500HD",automatic,45
+"Ford Focus ST",manual,45
+"Chevrolet Classic",automatic,45
+"GMC Sonoma",automatic,44
+"Suzuki SX4",manual,44
+"Lexus GS 430",automatic,44
+"BMW 1 Series",manual,43
+"Toyota Matrix",manual,43
+"Oldsmobile Intrigue",automatic,43
+"Ford Expedition EL",automatic,43
+"Lexus LX 470",automatic,43
+"GMC Sierra 1500 Classic",automatic,43
+"Nissan NV Cargo",automatic,43
+"MINI Cooper Paceman",automatic,42
+"Jeep Compass",manual,42
+"Volkswagen Golf",manual,42
+"Ford Fusion Energi",automatic,42
+"Pontiac Firebird",automatic,42
+"Honda S2000",manual,41
+"Ford Escape",manual,41
+"Acura TSX",manual,41
+"Chevrolet Lumina",automatic,41
+"Pontiac Solstice",manual,40
+"Dodge Ram Pickup 3500",manual,40
+"BMW M6",automatic,40
+"Oldsmobile Bravada",automatic,40
+"Pontiac Solstice",automatic,40
+"Chevrolet Tracker",automatic,40
+"Toyota Prius Plug-in",automatic,39
+"Mercury Monterey",automatic,39
+"Hyundai Sonata",manual,39
+"Chevrolet Malibu Classic",automatic,38
+"Jeep Liberty",manual,38
+"Toyota FJ Cruiser",manual,38
+"Audi allroad",automatic,37
+"Volvo V50",automatic,36
+"Bentley Continental GT",automatic,36
+"Infiniti Q45",automatic,36
+"Chevrolet Silverado 1500HD",automatic,36
+"Nissan Maxima",manual,36
+"Ram C/V Cargo Van",automatic,36
+"Land Rover Freelander",automatic,36
+"Oldsmobile Aurora",automatic,36
+"Chevrolet Astro",automatic,36
+"Suzuki Reno",automatic,36
+"Chevrolet Astro Cargo",automatic,36
+"Infiniti G Sedan",manual,35
+"Nissan 350Z",manual,35
+"Kia Sportage",manual,35
+"Mazda Mazdaspeed3",manual,35
+"Saturn Astra",automatic,35
+"Jaguar F-TYPE",automatic,34
+"Oldsmobile Silhouette",automatic,34
+"Audi S4",manual,34
+"Volkswagen Beetle Convertible",automatic,34
+"Nissan NV",automatic,33
+"Mercedes-Benz C-Class",manual,33
+"Porsche Cayman",manual,33
+"Land Rover LR3",automatic,33
+"Isuzu Ascender",automatic,33
+"Chevrolet Spark",manual,33
+"Volkswagen GLI",automatic,32
+"Mazda Mazda2",manual,32
+"Honda CR-V",manual,32
+"Subaru Baja",automatic,32
+"Chevrolet Colorado",manual,32
+"Cadillac Escalade Hybrid",automatic,31
+"Kia Sorento",manual,31
+"Mitsubishi Lancer Sportback",automatic,31
+"BMW Z4",manual,31
+"Chevrolet Silverado 3500",automatic,31
+"GMC Jimmy",automatic,31
+"Infiniti FX45",automatic,30
+"Toyota Celica",manual,30
+"Infiniti Q60 Convertible",automatic,30
+"Ram Dakota",automatic,30
+"Dodge Neon",manual,30
+"Toyota ECHO",automatic,30
+"Nissan Murano CrossCabriolet",automatic,30
+"Chevrolet S-10",manual,30
+"Nissan Juke",manual,29
+"Bentley Continental GTC",automatic,29
+"Acura Integra",automatic,29
+"Toyota Avalon Hybrid",automatic,29
+"Lexus IS F",automatic,28
+"Suzuki Kizashi",automatic,28
+"Infiniti Q60 Coupe",automatic,28
+"Chevrolet Black Diamond Avalanche",automatic,28
+"Subaru BRZ",manual,28
+"Acura TSX Sport Wagon",automatic,28
+"Dodge Ram Pickup 2500",manual,28
+"Acura ZDX",automatic,27
+"Volkswagen Touareg 2",automatic,27
+"BMW Z3",automatic,27
+"Saturn Sky",automatic,27
+"Honda Element",manual,27
+"Chrysler Crossfire",automatic,27
+"Acura TL",manual,27
+"Pontiac G5",manual,26
+"Bentley Continental Flying Spur",automatic,26
+"Audi allroad quattro",automatic,26
+"Mazda Protege5",automatic,26
+"Porsche Cayman",automatic,26
+"Kia Optima",manual,26
+"Pontiac GTO",manual,26
+"Ford F-150 Heritage",automatic,26
+"BMW Z3",manual,26
+"Honda Passport",automatic,26
+"Ram C/V Tradesman",automatic,26
+"Pontiac GTO",automatic,26
+"Chevrolet Tahoe Hybrid",automatic,25
+"Land Rover Discovery Series II",automatic,25
+"Volkswagen Jetta GLI",automatic,25
+"Audi S5",manual,25
+"Mazda 6",automatic,25
+"BMW X5 M",automatic,24
+"Cadillac CTS-V",automatic,24
+"Volvo C30",automatic,24
+"Chevrolet SSR",automatic,24
+"Volkswagen CC",manual,24
+"Chevrolet Prizm",automatic,24
+"Volkswagen Cabrio",automatic,24
+"Hyundai Elantra GT",manual,24
+"Honda CR-Z",manual,23
+"Lexus GS 450h",automatic,23
+"Chevrolet Cavalier",manual,23
+"Mitsubishi Lancer Evolution",automatic,23
+"Infiniti Q70",automatic,23
+"Cadillac Catera",automatic,23
+"Isuzu Trooper",automatic,23
+"Maserati GranTurismo",automatic,22
+"GMC Yukon Hybrid",automatic,22
+"Saturn L300",automatic,22
+"Mercury Cougar",automatic,22
+"Tesla Model S",automatic,22
+"Infiniti G37",manual,22
+"Scion xD",manual,22
+"Chevrolet Malibu Hybrid",automatic,22
+"Chevrolet Silverado 2500",automatic,21
+"Nissan Versa Note",manual,21
+"Volkswagen Beetle",manual,21
+"Subaru WRX",manual,21
+"Cadillac CTS-V Coupe",automatic,20
+"Chrysler LHS",automatic,20
+"Audi A5",manual,20
+"Dodge Dakota",manual,20
+"Suzuki Forenza",manual,20
+"Mitsubishi Diamante",automatic,20
+"Volkswagen Golf R",manual,20
+"Mazda Mazdaspeed 3",manual,20
+"Mazda 3",automatic,20
+"Infiniti G37 Convertible",automatic,19
+"Nissan Cube",manual,19
+"Audi S6",automatic,19
+"Mitsubishi Raider",automatic,19
+"Cadillac XLR",automatic,19
+"Volvo XC",automatic,19
+"Infiniti G20",automatic,19
+"Mercury Mariner Hybrid",automatic,19
+"Cadillac CTS",manual,19
+"Volvo S40",manual,19
+"Chrysler Cirrus",automatic,19
+"Mitsubishi Outlander Sport",manual,19
+"Nissan NV200",automatic,18
+"MINI Cooper Coupe",automatic,18
+"BMW X6 M",automatic,18
+"Chrysler Crossfire",manual,18
+"Chevrolet Silverado 1500",manual,18
+"Chevrolet Corvette Stingray",manual,18
+"Lincoln Navigator L",automatic,18
+"Audi R8",automatic,17
+"Volkswagen Rabbit",manual,17
+"Mitsubishi Eclipse Spyder",manual,17
+"Lexus IS 250",manual,17
+"Ford Escort",manual,17
+"Mitsubishi Mirage",manual,17
+"Isuzu Axiom",automatic,17
+"Hyundai Tucson",manual,17
+"Scion xA",automatic,17
+"Lexus GS 400",automatic,17
+"Pontiac Vibe",manual,16
+"Audi S8",automatic,16
+"Saturn Sky",manual,16
+"BMW 2 Series",automatic,16
+"Mitsubishi i-MiEV",automatic,16
+"Volvo V40",automatic,16
+"Volvo 850",automatic,16
+"Ram 3500",manual,16
+"GMC Sierra 2500HD Classic",automatic,16
+"Volkswagen GLI",manual,16
+"Cadillac CTS-V",manual,16
+"Ford Transit Van",automatic,16
+"Ram 2500",manual,15
+"Rolls-Royce Ghost",automatic,15
+"Mazda Protege",manual,15
+"Lexus IS 350 C",automatic,15
+"Lincoln MKC",automatic,15
+"Mazda Mazdaspeed Mazda3",manual,14
+"Toyota Tercel",automatic,14
+"Suzuki Verona",automatic,14
+"GMC Suburban",automatic,14
+"Chevrolet HHR",manual,14
+"Audi A3",manual,14
+"Ford Transit Wagon",automatic,14
+"Audi RS 5",automatic,13
+"Mazda Mazdaspeed Mazda6",manual,13
+"Chevrolet C/K 1500 Series",automatic,13
+"Volkswagen Jetta Hybrid",automatic,13
+"Acura RLX",automatic,13
+"Volvo S60",manual,13
+"Mercedes-Benz SLK-Class",manual,13
+"Maserati Ghibli",automatic,13
+"Saturn VUE Hybrid",automatic,12
+"Ford F-250 Super Duty",manual,12
+"Volkswagen Eos",manual,12
+"Mazda Protege5",manual,12
+"Hyundai Elantra Coupe",manual,12
+"Suzuki Aerio",automatic,12
+"Oldsmobile Eighty-Eight",automatic,12
+"Hyundai Santa Fe",manual,12
+"Pontiac G3",automatic,12
+"Ferrari California",automatic,11
+"Porsche Cayman S",manual,11
+"Ford Mustang SVT Cobra",manual,11
+"Lexus SC 400",automatic,11
+"Infiniti G37 Coupe",automatic,11
+"Toyota RAV4",manual,11
+"Chevrolet SS",automatic,11
+"BMW 2 Series",manual,11
+"Oldsmobile Cutlass",automatic,11
+"Geo Prizm",automatic,11
+"Chrysler Voyager",automatic,11
+"BMW ActiveHybrid 7",automatic,11
+"Volkswagen Jetta GLI",manual,11
+"MINI Cooper Coupe",manual,10
+"Lexus IS 300",manual,10
+"Cadillac CTS Wagon",automatic,10
+"Saturn Astra",manual,10
+"MINI Cooper Paceman",manual,10
+"HUMMER H3",manual,10
+"Volkswagen R32",automatic,10
+"Oldsmobile Cutlass Supreme",automatic,10
+"Kia Sephia",automatic,10
+"Toyota ECHO",manual,10
+"Dodge Viper",manual,10
+"Audi R8",manual,10
+"Subaru BRZ",automatic,10
+"Maserati GranTurismo Convertible",automatic,10
+"BMW M5",manual,10
+"Lincoln MKZ Hybrid",automatic,10
+"GMC Sierra 3500",automatic,10
+"BMW 6 Series",manual,9
+"GMC Savana",automatic,9
+"Aston Martin V8 Vantage",automatic,9
+"Mazda RX-8",automatic,9
+"Dodge Nitro",manual,9
+"Fisker Karma",automatic,9
+"Acura ILX",manual,9
+"Plymouth Prowler",automatic,9
+"BMW 4 Series Gran Coupe",automatic,9
+"Audi RS 7",automatic,8
+"Nissan Truck",manual,8
+"FIAT 500L",manual,8
+"Volkswagen Tiguan",manual,8
+"Ford F-350 Super Duty",manual,8
+"BMW X3",manual,8
+"Pontiac Aztek",automatic,8
+"Lexus SC 300",automatic,8
+"Suzuki Grand Vitara",manual,8
+"Toyota 4Runner",manual,8
+"Honda Accord Hybrid",automatic,8
+"MINI Cooper Roadster",manual,8
+"Mercury Milan",manual,8
+"Mercedes-Benz 300-Class",automatic,8
+"Volkswagen Jetta SportWagen",manual,8
+"BMW 4 Series",manual,8
+"Mercury Villager",automatic,8
+"Pontiac Firebird",manual,8
+"Hyundai Elantra Touring",manual,8
+"Toyota MR2 Spyder",manual,8
+"Volvo S90",automatic,7
+"Toyota Tundra",manual,7
+"Infiniti M56",automatic,7
+"BMW X5",manual,7
+"Pontiac Sunfire",manual,7
+"Acura Integra",manual,7
+"Land Rover Discovery",automatic,7
+"Mercedes-Benz 500-Class",automatic,7
+"BMW M6 Gran Coupe",automatic,7
+"Acura Legend",automatic,7
+"Hyundai XG300",automatic,7
+"Nissan Pathfinder",manual,7
+"Lincoln Mark VIII",automatic,7
+"Mazda Mazda5",manual,7
+"Ford Explorer",manual,7
+"Buick Regal",manual,7
+"BMW i8",automatic,7
+"Subaru WRX",automatic,7
+"Audi TTS",automatic,6
+"BMW M",manual,6
+"Ford Contour",automatic,6
+"Oldsmobile Cutlass Ciera",automatic,6
+"Mazda CX-5",manual,6
+"Volkswagen Phaeton",automatic,6
+"Mercury Milan Hybrid",automatic,6
+"GMC Sierra 1500HD",automatic,6
+"Infiniti QX50",automatic,6
+"Subaru Baja",manual,6
+"Mazda B-Series Pickup",automatic,6
+"Audi S7",automatic,6
+"Chevrolet Silverado 1500 Classic",manual,6
+"Pontiac G6",manual,6
+"GMC Yukon Denali",automatic,6
+"Saab 9-2X",automatic,6
+"Nissan Truck",automatic,6
+"Chevrolet Caprice",automatic,6
+"Isuzu i-Series",automatic,6
+"Cadillac STS-V",automatic,6
+"Aston Martin DB9",automatic,6
+"Jeep Cherokee",manual,6
+"BMW ActiveHybrid X6",automatic,5
+"BMW M6",manual,5
+"Toyota MR2 Spyder",automatic,5
+"Audi RS 6",automatic,5
+"Cadillac CTS-V Coupe",manual,5
+"Dodge Ram Cargo",automatic,5
+"Honda Prelude",automatic,5
+"Nissan 200SX",automatic,5
+"Mazda RX-8",manual,5
+"Jaguar X-Type",manual,5
+"Chevrolet Tracker",manual,5
+"MINI Cooper Roadster",automatic,5
+"Dodge Stratus",manual,5
+"Chevrolet Tahoe Limited/Z71",automatic,5
+"Volvo 960",automatic,5
+"Aston Martin V8 Vantage",manual,5
+"Toyota Camry Solara",manual,5
+"HUMMER H3T",automatic,5
+"Honda Prelude",manual,5
+"Lexus RC 350",automatic,5
+"Audi SQ5",automatic,4
+"Mercury Marauder",automatic,4
+"Porsche Cayman S",automatic,4
+"BMW M4",automatic,4
+"Mazda B-Series Truck",manual,4
+"Volkswagen Cabrio",manual,4
+"Toyota Pickup",manual,4
+"Infiniti G Convertible",manual,4
+"Mercury Cougar",manual,4
+"Scion xA",manual,4
+"Chevrolet C/K 3500 Series",automatic,4
+"Plymouth Neon",automatic,4
+"Lexus GS 460",automatic,4
+"Saturn Aura Hybrid",automatic,4
+"Volkswagen Golf GTI",manual,4
+"GMC Canyon",manual,4
+"Porsche Macan",automatic,4
+"Acura CL",manual,4
+"Subaru Impreza WRX",automatic,4
+"Mercury Tracer",automatic,4
+"Ram CV Tradesman",automatic,4
+"Mazda Mazdaspeed Protege",manual,4
+"Geo Prizm",manual,4
+"Lexus LS 600h L",automatic,4
+"Lexus LX 450",automatic,4
+"Mazda 626",manual,4
+"Mazda Tribute",manual,4
+"BMW Z4 M",manual,4
+"Saab 9-5",manual,4
+"Volvo V50",manual,4
+"Toyota T100",automatic,4
+"Subaru XV Crosstrek",manual,4
+"Lexus RC F",automatic,4
+"Volkswagen Golf GTI",automatic,4
+"Cadillac ELR",automatic,3
+"Bentley Continental GT Speed",automatic,3
+"Mercedes-Benz SLS AMG",automatic,3
+"Buick Roadmaster",automatic,3
+"Chevrolet Silverado 1500 Hybrid",automatic,3
+"Pontiac G3",manual,3
+"Mazda Mazdaspeed MX-5 Miata",manual,3
+"GMC Safari",automatic,3
+"Infiniti Q60 Coupe",manual,3
+"Ford F-150 Heritage",manual,3
+"Audi A6",manual,3
+"GMC Sonoma",manual,3
+"GMC Sierra 2500",automatic,3
+"GMC Sierra 1500",manual,3
+"Volvo 850",manual,3
+"Infiniti FX50",automatic,3
+"Isuzu Rodeo",manual,3
+"Ford Tempo",automatic,3
+"Lincoln Blackwood",automatic,3
+"Nissan NV Passenger",automatic,3
+"Infiniti J30",automatic,3
+"Suzuki Vitara",automatic,3
+"Chevrolet Silverado 3500 Classic",automatic,3
+"Nissan 200SX",manual,3
+"Volkswagen EuroVan",automatic,3
+"Ford Windstar Cargo",automatic,3
+"Suzuki Reno",manual,3
+"Honda Insight",manual,3
+"Ford F-150 SVT Lightning",automatic,3
+"Chevrolet C/K 1500 Series",manual,3
+"Buick Riviera",automatic,3
+"Mazda 3",manual,3
+"Ford Shelby GT500",automatic,3
+"Lamborghini Gallardo",automatic,3
+"Audi TT RS",manual,3
+"Isuzu i-Series",manual,3
+"Audi RS 4",manual,3
+"BMW M4",manual,3
+"GMC Safari Cargo",automatic,2
+"Mazda 6",manual,2
+"Chrysler Prowler",automatic,2
+"Ferrari F430",automatic,2
+"Mitsubishi Outlander",manual,2
+"Saturn L-Series",manual,2
+"Mazda Truck",automatic,2
+"Suzuki Equator",automatic,2
+"Saab 9-2X",manual,2
+"Kia Sephia",manual,2
+"Oldsmobile Eighty-Eight Royale",automatic,2
+"Mazda Tribute Hybrid",automatic,2
+"Chevrolet Silverado 2500HD",manual,2
+"Porsche Cayenne",manual,2
+"Maserati Coupe",automatic,2
+"Volvo C70",manual,2
+"Aston Martin Rapide",automatic,2
+"Daewoo Nubira",automatic,2
+"Pontiac Montana SV6",automatic,2
+"Mercedes-Benz E-Class",manual,2
+"Maserati Spyder",automatic,2
+"Isuzu Trooper",manual,2
+"Volvo C30",manual,2
+"Cadillac ATS",manual,2
+"Ford Focus ST",automatic,2
+"Dodge Charger",manual,2
+"Suzuki Esteem",manual,2
+"Mercury Mystique",automatic,2
+"Ford E-150",automatic,2
+"Plymouth Breeze",automatic,2
+"Infiniti G20",manual,2
+"Mazda B-Series Pickup",manual,2
+"Volvo 940",automatic,2
+"Ford Edge",manual,2
+"Mercedes-Benz 190-Class",automatic,2
+"Bentley Continental Flying Spur Speed",automatic,2
+"Mazda Truck",manual,2
+"Mitsubishi 3000GT",automatic,2
+"Nissan 300ZX",manual,2
+"BMW ActiveHybrid 5",automatic,2
+"Chevrolet Blazer",manual,2
+"GMC Sierra 1500 Hybrid",automatic,2
+"Ford Explorer Sport Trac",manual,2
+"Chevrolet S-10 Blazer",automatic,2
+"Dodge Sprinter",automatic,2
+"Honda S2000",automatic,2
+"Ford E-250",automatic,2
+"Mazda B-Series Truck",automatic,2
+"Mercedes-Benz B-Class Electric Drive",automatic,2
+"BMW X4",automatic,2
+"Dodge Avenger",manual,2
+"Volkswagen Beetle Convertible",manual,2
+"Volkswagen R32",manual,1
+"Toyota Sienna",manual,1
+"Mitsubishi Lancer Sportback",manual,1
+"Isuzu Rodeo Sport",automatic,1
+"Dodge Spirit",automatic,1
+"Toyota Pickup",automatic,1
+"Cadillac CTS-V Wagon",manual,1
+"Land Rover Range Rover",manual,1
+"Chevrolet C/K 2500 Series",automatic,1
+"Ford Explorer Sport",manual,1
+"Chevrolet Corsica",automatic,1
+"Mercedes-Benz 400-Class",automatic,1
+"Chevrolet Silverado 2500HD Classic",manual,1
+"Maserati GranSport",automatic,1
+"Bentley Continental Supersports",automatic,1
+"Maserati Spyder",manual,1
+"Ford Aspire",manual,1
+"Ford Aspire",automatic,1
+"Lexus SC 300",manual,1
+"Suzuki Vitara",manual,1
+"Volvo V70",manual,1
+"Isuzu Amigo",automatic,1
+"Chevrolet Prizm",manual,1
+"BMW M",automatic,1
+"GMC Terrain",manual,1
+"Chevrolet Impala",manual,1
+"Chrysler Pacifica",manual,1
+"Toyota Tercel",manual,1
+"Toyota Highlander",manual,1
+"Mercedes-Benz ML55 AMG",automatic,1
+"Chevrolet Silverado 3500",manual,1
+"Chrysler 200",manual,1
+"Bentley Continental GTC Speed",automatic,1
+"FIAT 500e",automatic,1
+"GMC Yukon XL",manual,1
+"Suzuki Sidekick",automatic,1
+"Chevrolet S-10 Blazer",manual,1
+"GMC Jimmy",manual,1
+"BMW 8 Series",automatic,1
+"Mercedes-Benz 420-Class",automatic,1
+"Chevrolet SSR",manual,1
+"Oldsmobile Achieva",automatic,1
+"Toyota Paseo",automatic,1
+"Acura MDX",manual,1
+"Lotus Exige",manual,1
+"Mazda MPV",manual,1
+"HUMMER H1",automatic,1
+"Mercedes-Benz SLS AMG GT",automatic,1
+"Mercedes-Benz M-Class",manual,1
+"Geo Metro",automatic,1
+"Ford F-450 Super Duty",manual,1
+"Chevrolet Tahoe",manual,1
+"Jeep Grand Cherokee SRT",automatic,1
+"Chevrolet Spark EV",automatic,1
+"Ford E-350",automatic,1
+"Chevrolet Malibu",manual,1
+"Ferrari 360",manual,1
+"Mercedes-Benz GLA-Class",automatic,1
+"Acura TLX",automatic,1
+"Ferrari 458 Italia",automatic,1

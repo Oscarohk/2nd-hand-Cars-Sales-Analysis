@@ -1,0 +1,45 @@
+state,body,qty_body
+Florida,Sedan,32804
+Florida,SUV,15653
+California,Hatchback,3882
+Florida,Minivan,3879
+California,Coupe,2795
+Texas,"Crew Cab",2490
+California,Convertible,2149
+California,Wagon,1867
+California,"G Sedan",1733
+Texas,SuperCrew,953
+Texas,"Quad Cab",570
+Texas,"Regular Cab",554
+Florida,Van,510
+California,"G Coupe",485
+Texas,SuperCab,481
+California,"Extended Cab",466
+Florida,"Double Cab",274
+Florida,"E-Series Van",99
+California,"King Cab",86
+California,"G Convertible",85
+California,"CrewMax Cab",78
+Florida,"Genesis Coupe",63
+Texas,"Mega Cab",49
+California,"Access Cab",44
+Florida,Koup,28
+California,"Club Cab",23
+Florida,"Elantra Coupe",22
+Tennessee,"Q60 Convertible",20
+Florida,"CTS Coupe",18
+Georgia,"Promaster Cargo Van",17
+Tennessee,"Q60 Coupe",16
+California,Xtracab,12
+California,"Beetle Convertible",8
+California,"TSX Sport Wagon",8
+California,"CTS-V Coupe",7
+California,"G37 Convertible",6
+Michigan,"Cab Plus 4",5
+Florida,"GranTurismo Convertible",5
+Michigan,"CTS Wagon",4
+Pennsylvania,regular-cab,4
+"New Jersey","G37 Coupe",3
+"New Jersey","Transit Van",3
+Georgia,"Cab Plus",1
+California,"CTS-V Wagon",1

@@ -1,0 +1,1061 @@
+brand_model,transmission,brand_model_sales,avg_price
+"Ferrari 458 Italia",automatic,183000,183000.00
+"Mercedes-Benz SLS AMG GT",automatic,156500,156500.00
+"BMW i8",automatic,1089500,155642.86
+"Rolls-Royce Ghost",automatic,2308300,153886.67
+"Ferrari California",automatic,1478000,134363.64
+"Mercedes-Benz SLS AMG",automatic,348050,116016.67
+"Lamborghini Gallardo",automatic,334500,111500.00
+"Bentley Continental GTC Speed",automatic,111000,111000.00
+"Ferrari F430",automatic,212500,106250.00
+"Bentley Continental Flying Spur Speed",automatic,211500,105750.00
+"Audi RS 7",automatic,817800,102225.00
+"Bentley Continental Supersports",automatic,101000,101000.00
+"Aston Martin Rapide",automatic,197500,98750.00
+"Audi R8",automatic,1561500,91852.94
+"Audi R8",manual,910750,91075.00
+"BMW M6 Gran Coupe",automatic,632050,90292.86
+"Bentley Continental GTC",automatic,2596800,89544.83
+"Land Rover Range Rover",manual,85000,85000.00
+"Ferrari 360",manual,81000,81000.00
+"Bentley Continental GT Speed",automatic,239250,79750.00
+"Mercedes-Benz G-Class",automatic,3880500,79193.88
+"Porsche 911",automatic,9262250,75302.85
+"Maserati GranTurismo Convertible",automatic,741000,74100.00
+"Jaguar F-TYPE",automatic,2515100,73973.53
+"Nissan GT-R",automatic,3634200,72684.00
+"BMW M4",manual,205050,68350.00
+"Tesla Model S",automatic,1489250,67693.18
+"BMW M4",automatic,267500,66875.00
+"Audi S7",automatic,399850,66641.67
+"Bentley Continental GT",automatic,2353850,65384.72
+"Lexus RC F",automatic,255300,63825.00
+"Porsche Macan",automatic,245000,61250.00
+"Jeep Grand Cherokee SRT",automatic,61000,61000.00
+"Bentley Continental Flying Spur",automatic,1558000,59923.08
+"Maserati Ghibli",automatic,773000,59461.54
+"Maserati GranTurismo",automatic,1306250,59375.00
+"BMW X6 M",automatic,1038400,57688.89
+"Audi RS 5",automatic,749750,57673.08
+"BMW 6 Series Gran Coupe",automatic,4253203,55963.20
+"Chevrolet Corvette Stingray",manual,1007150,55952.78
+"Porsche Panamera",automatic,11690500,55405.21
+"Chevrolet Corvette Stingray",automatic,2874050,55270.19
+"Infiniti QX80",automatic,4627150,55085.12
+"BMW M6",automatic,2134900,53372.50
+"Porsche 911",manual,2710500,53147.06
+"Lexus LX 570",automatic,4209300,52616.25
+"Aston Martin DB9",automatic,307000,51166.67
+"Aston Martin V8 Vantage",manual,253900,50780.00
+"Aston Martin V8 Vantage",automatic,456600,50733.33
+"BMW X4",automatic,101100,50550.00
+"Cadillac CTS-V Wagon",manual,50500,50500.00
+"Audi S8",automatic,767400,47962.50
+"Audi SQ5",automatic,190300,47575.00
+"Fisker Karma",automatic,418150,46461.11
+"Lexus RC 350",automatic,230850,46170.00
+"BMW X5 M",automatic,1099750,45822.92
+"BMW M5",automatic,2837906,45772.68
+"HUMMER H1",automatic,45750,45750.00
+"Audi TT RS",manual,134400,44800.00
+"Ford Shelby GT500",manual,3291550,44480.41
+"BMW 4 Series Gran Coupe",automatic,397300,44144.44
+"Jaguar XK",automatic,3264300,44112.16
+"Audi A7",automatic,4210200,42527.27
+"BMW 4 Series",automatic,8787400,42247.12
+"Cadillac CTS-V Coupe",manual,209921,41984.20
+"Porsche Cayman",automatic,1071950,41228.85
+"BMW 4 Series",manual,328000,41000.00
+"Lotus Exige",manual,40800,40800.00
+"Land Rover Range Rover",automatic,11731055,40037.73
+"Land Rover LR4",automatic,4437200,39974.77
+"Infiniti QX",automatic,6392204,39951.28
+"Cadillac ELR",automatic,119850,39950.00
+"Jaguar XJ",automatic,6691051,39592.02
+"BMW 2 Series",manual,434750,39522.73
+"BMW M6",manual,195900,39180.00
+"BMW X6",automatic,7494650,38832.38
+"Kia K900",automatic,2044600,38577.36
+"Dodge Viper",manual,384350,38435.00
+"BMW 3 Series Gran Turismo",automatic,1843000,38395.83
+"Lexus GX 460",automatic,6608440,37547.95
+"BMW 2 Series",automatic,592350,37021.88
+"Cadillac CTS-V Coupe",automatic,736000,36800.00
+"Infiniti Q60 Convertible",automatic,1095350,36511.67
+"Ford Shelby GT500",automatic,109200,36400.00
+"Land Rover Range Rover Sport",automatic,18806600,36166.54
+"Land Rover Range Rover Evoque",automatic,3608000,36080.00
+"Chevrolet SS",automatic,390600,35509.09
+"Audi TTS",automatic,211750,35291.67
+"BMW 5 Series Gran Turismo",automatic,4285575,35127.66
+"GMC Sierra 3500HD",automatic,1579350,35096.67
+"Ram 3500",automatic,6694700,34868.23
+"Infiniti QX60",automatic,5261450,34614.80
+"BMW ActiveHybrid 7",automatic,379000,34454.55
+"Infiniti QX70",automatic,1873300,34060.00
+"Hyundai Equus",automatic,3644200,33742.59
+"Chevrolet Black Diamond Avalanche",automatic,942350,33655.36
+"Ram 2500",automatic,24912325,33574.56
+"Audi S5",automatic,2527850,33261.18
+"Lincoln MKC",automatic,496950,33130.00
+"Infiniti Q60 Coupe",manual,98900,32966.67
+"Audi allroad",automatic,1219150,32950.00
+"Ram 2500",manual,493900,32926.67
+"Lexus IS F",automatic,917950,32783.93
+"Infiniti QX50",automatic,196400,32733.33
+"Maserati GranSport",automatic,32500,32500.00
+"BMW 6 Series",automatic,15567825,32365.54
+"Infiniti Q70",automatic,741000,32217.39
+"Mercedes-Benz GLA-Class",automatic,32000,32000.00
+"Ram 3500",manual,510100,31881.25
+"Maserati Quattroporte",automatic,1525500,31781.25
+"Chevrolet Corvette",manual,5604900,31488.20
+"Cadillac CTS-V",automatic,747300,31137.50
+"Mercedes-Benz CLA-Class",automatic,3072400,31034.34
+"Chevrolet Silverado 3500HD",automatic,4156650,31019.78
+"Lexus RX 450h",automatic,4070500,30605.26
+"Acura RLX",automatic,397000,30538.46
+"Porsche Cayman",manual,1006850,30510.61
+"Subaru WRX",manual,638950,30426.19
+"Porsche Cayman S",automatic,121500,30375.00
+"Cadillac XTS",automatic,3812951,30261.52
+"Infiniti JX",automatic,8374001,30231.05
+"Subaru Impreza WRX",automatic,120350,30087.50
+"Lexus IS 350 C",automatic,446900,29793.33
+"Lexus LS 460",automatic,13339000,29708.24
+"Lexus ES 300h",automatic,1806100,29608.20
+"Audi S5",manual,734800,29392.00
+"Infiniti Q50",automatic,12935333,29331.82
+"BMW M3",automatic,3430525,29320.73
+"Mercedes-Benz SL-Class",automatic,9979550,29179.97
+"Mercedes-Benz GL-Class",automatic,22009658,29151.86
+"Infiniti Q60 Coupe",automatic,816100,29146.43
+"Lexus GS 350",automatic,18863800,29110.80
+"BMW X1",automatic,6574975,28586.85
+"Porsche Cayenne",automatic,12034350,28450.00
+"Subaru WRX",automatic,196100,28014.29
+"Ford Transit Wagon",automatic,390000,27857.14
+"Mercedes-Benz CLS-Class",automatic,8869190,27803.10
+"Ford F-450 Super Duty",automatic,1583324,27777.61
+"Porsche Cayenne",manual,55500,27750.00
+"BMW ActiveHybrid X6",automatic,138400,27680.00
+"BMW ActiveHybrid 5",automatic,55250,27625.00
+"Audi S6",automatic,523100,27531.58
+"Porsche Boxster",automatic,2544401,27359.15
+"Audi A8",automatic,6221450,27287.06
+"Infiniti FX",automatic,8120310,27249.36
+"Audi Q5",automatic,10143500,26977.39
+"Volvo V60",automatic,1909000,26887.32
+"Cadillac Escalade Hybrid",automatic,832050,26840.32
+"Nissan Murano CrossCabriolet",automatic,800000,26666.67
+"Lexus RX 350",automatic,48885150,26596.93
+"Chrysler Prowler",automatic,53000,26500.00
+"Acura ZDX",automatic,713100,26411.11
+"Audi Q7",automatic,8707750,26387.12
+"BMW M3",manual,2004149,26370.38
+"Lexus IS 250 C",automatic,2762150,26306.19
+"Mercedes-Benz B-Class Electric Drive",automatic,52500,26250.00
+"GMC Yukon XL",manual,26200,26200.00
+"Acura TLX",automatic,26200,26200.00
+"Infiniti G Convertible",automatic,6263800,26099.17
+"Audi RS 4",manual,78200,26066.67
+"Dodge Challenger",manual,4740300,25903.28
+"Honda Accord Hybrid",automatic,206000,25750.00
+"GMC Sierra 2500HD",automatic,9939400,25749.74
+"Volkswagen Golf R",manual,514600,25730.00
+"Infiniti G Convertible",manual,102900,25725.00
+"Subaru Impreza WRX",manual,2364400,25700.00
+"Toyota Avalon Hybrid",automatic,743050,25622.41
+"Mercedes-Benz S-Class",automatic,26643402,25594.05
+"Infiniti M",automatic,16680726,25273.83
+"Infiniti G Coupe",manual,2196850,25251.15
+"Mercedes-Benz Sprinter",automatic,1260151,25203.02
+"Audi A5",automatic,5993900,25184.45
+"Mercedes-Benz CL-Class",automatic,3169250,25152.78
+"Mercedes-Benz GLK-Class",automatic,15912761,25098.99
+"Chevrolet Corvette",automatic,6829052,25014.84
+"Infiniti FX50",automatic,74100,24700.00
+"Cadillac Escalade ESV",automatic,11732001,24543.94
+"Lexus LS 600h L",automatic,97650,24412.50
+"Acura MDX",manual,24400,24400.00
+"BMW 6 Series",manual,219250,24361.11
+"Volvo XC60",automatic,7522950,24346.12
+"Ford F-450 Super Duty",manual,24300,24300.00
+"Jaguar XF",automatic,7399900,23947.90
+"Ford Transit Van",automatic,380650,23790.63
+"Infiniti M56",automatic,166400,23771.43
+"HUMMER H2 SUT",automatic,1299450,23626.36
+"Mitsubishi Lancer Evolution",automatic,540500,23500.00
+"Audi S4",automatic,2711200,23372.41
+"Porsche Cayman S",manual,256500,23318.18
+"Mitsubishi Lancer Evolution",manual,1973050,23212.35
+"Infiniti G Sedan",manual,810750,23164.29
+"Jeep Wrangler",automatic,44137667,23036.36
+"Ram Promaster Cargo Van",automatic,1260350,22915.45
+"Lincoln MKT",automatic,2542450,22904.95
+"Ram 1500",automatic,59659586,22866.84
+"Cadillac CTS Coupe",automatic,2474600,22702.75
+"Nissan 370Z",manual,1520850,22699.25
+"Ford F-350 Super Duty",automatic,20199583,22645.27
+"BMW Z4",automatic,3701125,22567.84
+"Infiniti EX",automatic,2500650,22528.38
+"Toyota Land Cruiser",automatic,1756850,22523.72
+"Lincoln MKX",automatic,17269060,22456.51
+"Toyota Tacoma",automatic,19259826,22265.69
+"Cadillac Escalade",automatic,19812003,22161.08
+"Infiniti G Coupe",automatic,28449300,22156.78
+"BMW X5",automatic,37993450,21999.68
+"Infiniti M37",automatic,1532597,21894.24
+"Mercedes-Benz M-Class",manual,21600,21600.00
+"Audi S4",manual,734250,21595.59
+"Cadillac ATS",manual,43000,21500.00
+"GMC Savana",automatic,192800,21422.22
+"Infiniti QX56",automatic,7684785,21406.09
+"BMW Z4 M",manual,85500,21375.00
+"Chevrolet Camaro",manual,6935900,21275.77
+"Chevrolet Silverado 2500HD Classic",manual,21200,21200.00
+"Ford Edge",manual,42300,21150.00
+"Nissan NV Cargo",automatic,908850,21136.05
+"MINI Cooper Paceman",manual,211150,21115.00
+"Toyota Tundra",automatic,21243326,21095.66
+"Subaru XV Crosstrek",automatic,3542750,21087.80
+"Nissan 370Z",automatic,2065700,21078.57
+"Volkswagen Golf GTI",manual,84300,21075.00
+"Lincoln MKS",automatic,11703327,20973.70
+"Nissan NV Passenger",automatic,62900,20966.67
+"Ford Fusion Energi",automatic,876650,20872.62
+"Volkswagen Golf GTI",automatic,83350,20837.50
+"BMW 5 Series",automatic,62860675,20835.49
+"Kia Cadenza",automatic,4296250,20754.83
+"Plymouth Prowler",automatic,186200,20688.89
+"Cadillac ATS",automatic,3103204,20688.03
+"BMW M5",manual,205700,20570.00
+"HUMMER H3T",automatic,102850,20570.00
+"Chevrolet Silverado 2500HD",automatic,23851655,20544.06
+"Subaru BRZ",automatic,203600,20360.00
+"Audi A5",manual,406950,20347.50
+"MINI Cooper Paceman",automatic,852900,20307.14
+"Infiniti G37 Convertible",automatic,384550,20239.47
+"Mercedes-Benz E-Class",automatic,51503858,20197.59
+"Lexus ES 350",automatic,30998925,20051.05
+"Ford F-250 Super Duty",automatic,38655451,19987.31
+"Chevrolet Suburban",automatic,39793789,19956.76
+"Infiniti G Sedan",automatic,126704703,19922.12
+"Hyundai Santa Fe Sport",automatic,5010950,19884.72
+"Lexus CT 200h",automatic,7417600,19833.16
+"Cadillac SRX",automatic,18217495,19737.26
+"Dodge Ram Pickup 3500",automatic,2287550,19720.26
+"Dodge Challenger",automatic,16272151,19628.65
+"Lexus GX 470",automatic,1760600,19562.22
+"GMC Savana Cargo",automatic,10423700,19556.66
+"Lexus IS 250",automatic,31152250,19531.19
+"Toyota FJ Cruiser",automatic,5846250,19487.50
+"Subaru BRZ",manual,545600,19485.71
+"Ford E-Series Wagon",automatic,14262904,19405.31
+"GMC Sierra 1500",automatic,36704265,19379.23
+"Ford F-150",automatic,196383358,19344.30
+"Lexus IS 350",automatic,3031000,19305.73
+"Subaru XV Crosstrek",manual,77100,19275.00
+"Mazda CX-5",automatic,8006503,19200.25
+"Acura ILX",automatic,1686400,19163.64
+"Jeep Wrangler",manual,16897190,19136.12
+"MINI Cooper Roadster",manual,152750,19093.75
+"Ford Explorer",automatic,95673341,19016.76
+"Buick Enclave",automatic,16139450,18987.59
+"Ford E-Series Van",automatic,19951551,18947.34
+"GMC Sierra 2500HD Classic",automatic,303150,18946.88
+"Porsche Boxster",manual,2099650,18915.77
+"MINI Cooper Countryman",automatic,4893950,18895.56
+"Chevrolet Camaro",automatic,24474955,18885.00
+"Mercedes-Benz M-Class",automatic,24617825,18864.23
+"Ford Flex",automatic,17124011,18859.04
+"BMW 1 Series",automatic,4930850,18820.04
+"Cadillac XLR",automatic,356800,18778.95
+"Buick Encore",automatic,1458202,18694.90
+"Buick Regal",manual,130700,18671.43
+"Lexus GS 450h",automatic,428550,18632.61
+"Chevrolet SSR",automatic,447150,18631.25
+"Acura RDX",automatic,5196350,18558.39
+"Ford Focus ST",automatic,37100,18550.00
+"Ford Edge",automatic,77755554,18526.46
+"Volkswagen Jetta GLI",automatic,462500,18500.00
+"Acura TSX Sport Wagon",automatic,517800,18492.86
+"Cadillac CTS Wagon",automatic,184850,18485.00
+"Chevrolet Silverado 1500 Hybrid",automatic,55200,18400.00
+"Scion FR-S",automatic,992950,18387.96
+"Dodge Ram Pickup 3500",manual,734150,18353.75
+"HUMMER H2",automatic,4731850,18340.50
+"Hyundai Genesis",automatic,13139512,18325.68
+"Honda Pilot",automatic,30513275,18304.30
+"Ford Focus ST",manual,821000,18244.44
+"BMW 1 Series",manual,783950,18231.40
+"Mercedes-Benz SLK-Class",automatic,3959100,18161.01
+"Chevrolet Tahoe",automatic,46206592,18084.77
+"Volkswagen Beetle Convertible",manual,36100,18050.00
+"BMW X3",automatic,16245925,18011.00
+"Honda Crosstour",automatic,5050400,17972.95
+"Subaru Forester",automatic,12580800,17946.93
+"MINI Cooper Countryman",manual,1290600,17925.00
+"Lexus GS 460",automatic,71400,17850.00
+"Scion FR-S",manual,1568100,17819.32
+"Volkswagen Beetle Convertible",automatic,605150,17798.53
+"GMC Acadia",automatic,27113387,17767.62
+"Acura ILX",manual,158600,17622.22
+"BMW 7 Series",automatic,16736025,17616.87
+"Mazda CX-9",automatic,10435000,17567.34
+"Cadillac Escalade EXT",automatic,2071750,17557.20
+"GMC Yukon Hybrid",automatic,385350,17515.91
+"Ford Expedition",automatic,32710227,17510.83
+"GMC Terrain",automatic,16323200,17495.39
+"Honda Ridgeline",automatic,2959400,17306.43
+"Volkswagen Jetta GLI",manual,189200,17200.00
+"Lincoln MKZ",automatic,19383900,17169.09
+"GMC Sierra 1500 Hybrid",automatic,34200,17100.00
+"Chevrolet Express",automatic,4240002,17096.78
+"Jeep Cherokee",automatic,7188250,17074.23
+"Mercedes-Benz C-Class",automatic,59640832,17059.73
+"Audi A6",automatic,10328975,17016.43
+"Maserati Spyder",manual,17000,17000.00
+"Toyota Prius v",automatic,1629650,16975.52
+"Toyota Prius Plug-in",automatic,660150,16926.92
+"MINI Cooper Coupe",manual,168400,16840.00
+"Chevrolet Silverado 1500",automatic,88219011,16838.90
+"GMC Yukon",automatic,18692726,16810.01
+"Subaru Outback",automatic,18422650,16793.66
+"Maserati Spyder",automatic,33550,16775.00
+"Lexus HS 250h",automatic,1056500,16769.84
+"GMC Yukon XL",automatic,17202707,16701.66
+"Toyota Sequoia",automatic,6977150,16691.75
+"BMW 3 Series",automatic,97710995,16685.62
+"Chevrolet Traverse",automatic,26586767,16595.98
+"GMC Sierra 3500",automatic,165450,16545.00
+"Toyota Venza",automatic,7012603,16539.16
+"Mazda CX-5",manual,98950,16491.67
+"Volkswagen Jetta SportWagen",manual,130550,16318.75
+"Nissan NV200",automatic,293200,16288.89
+"Dodge Ram Pickup 2500",manual,455100,16253.57
+"GMC Terrain",manual,16200,16200.00
+"Hyundai Genesis Coupe",manual,1144900,16125.35
+"Toyota 4Runner",automatic,17114397,16115.25
+"Jeep Grand Cherokee",automatic,54620346,16074.26
+"Lincoln Navigator",automatic,9271702,16068.81
+"FIAT 500e",automatic,16000,16000.00
+"Acura MDX",automatic,18103325,15824.58
+"Ford Fusion Hybrid",automatic,6859652,15805.65
+"Dodge Ram Pickup 2500",automatic,5809950,15787.91
+"Volkswagen Jetta Hybrid",automatic,204950,15765.38
+"BMW M",automatic,15750,15750.00
+"Hyundai Genesis Coupe",automatic,2684650,15699.71
+"Audi A3",automatic,2773950,15672.03
+"Nissan Armada",automatic,10452307,15647.17
+"Toyota Highlander",automatic,24153253,15602.88
+"Hyundai Sonata Hybrid",automatic,7667370,15584.09
+"Chevrolet Silverado 3500",automatic,481550,15533.87
+"Ram CV Tradesman",automatic,62050,15512.50
+"MINI Cooper Roadster",automatic,77100,15420.00
+"Infiniti G37 Coupe",automatic,169050,15368.18
+"MINI Cooper Coupe",automatic,276100,15338.89
+"BMW Z4",manual,475200,15329.03
+"Ford C-Max Hybrid",automatic,4012602,15257.04
+"Toyota Tacoma",manual,1951200,15243.75
+"Chevrolet Silverado 3500 Classic",automatic,45500,15166.67
+"Nissan Rogue Select",automatic,1253100,15097.59
+"Volvo XC70",automatic,1534700,15046.08
+"Subaru Tribeca",automatic,781400,15026.92
+"Mazda Mazdaspeed3",manual,523450,14955.71
+"Suzuki Equator",automatic,29700,14850.00
+"Nissan Juke",automatic,5360600,14849.31
+"Nissan NV",automatic,489900,14845.45
+"Cadillac CTS-V",manual,237200,14825.00
+"Nissan Juke",manual,427450,14739.66
+"Kia Sorento",automatic,40520473,14729.36
+"Dodge Charger",manual,29300,14650.00
+"Nissan Pathfinder",automatic,21279303,14645.08
+"Cadillac STS-V",automatic,87550,14591.67
+"Toyota FJ Cruiser",manual,553900,14576.32
+"Land Rover LR3",automatic,479150,14519.70
+"Honda Accord Crosstour",automatic,1377875,14503.95
+"Chevrolet Tahoe",manual,14500,14500.00
+"Mazda Mazdaspeed 3",manual,289750,14487.50
+"Toyota RAV4",automatic,40329533,14480.98
+"Infiniti G37",manual,317875,14448.86
+"Toyota Sienna",manual,14400,14400.00
+"Nissan Frontier",automatic,11324802,14371.58
+"Subaru Impreza",manual,4204340,14252.00
+"Ford Escape",automatic,125543396,14185.69
+"Chevrolet Silverado 2500HD Classic",automatic,760200,14077.78
+"Chrysler Town and Country",automatic,67162577,14033.13
+"Volkswagen Tiguan",automatic,5769852,13970.59
+"Volvo C30",manual,27800,13900.00
+"Jaguar XK-Series",automatic,1014350,13895.21
+"Dodge Durango",automatic,21534091,13892.96
+"Chevrolet Tahoe Hybrid",automatic,347250,13890.00
+"Ford Mustang",manual,9907660,13876.27
+"Subaru Legacy",automatic,12142734,13861.57
+"Chevrolet Impala Limited",automatic,14027151,13833.48
+"Honda CR-V",automatic,34694084,13827.85
+"Acura TSX",automatic,9834900,13793.69
+"Nissan Rogue",automatic,52916007,13726.59
+"Audi RS 6",automatic,68550,13710.00
+"Toyota Camry Hybrid",automatic,6969087,13691.72
+"Land Rover LR2",automatic,1241600,13643.96
+"Volkswagen CC",automatic,6285752,13635.04
+"Chevrolet Captiva Sport",automatic,11588806,13601.88
+"Mazda MX-5 Miata",automatic,1208375,13577.25
+"Toyota Sienna",automatic,31180955,13574.64
+"Toyota Highlander Hybrid",automatic,2375525,13574.43
+"Hyundai Veloster",automatic,4967000,13571.04
+"Volkswagen Jetta SportWagen",automatic,1886600,13475.71
+"Nissan Titan",automatic,8781125,13426.80
+"Kia Optima",automatic,47150346,13414.04
+"Chevrolet Avalanche",automatic,12423425,13401.75
+"Hyundai Veloster",manual,1830900,13364.23
+"Honda S2000",manual,547350,13350.00
+"Ford Mustang",automatic,41692573,13341.62
+"Mitsubishi Outlander Sport",automatic,4824700,13327.90
+"Infiniti G37",automatic,2041650,13257.47
+"Hyundai Elantra GT",automatic,2374250,13190.28
+"Hyundai Elantra GT",manual,316250,13177.08
+"Buick Verano",automatic,3726851,13169.08
+"Volvo S60",automatic,11329125,13158.10
+"Hyundai Azera",automatic,3454600,13135.36
+"Lincoln Navigator L",automatic,235250,13069.44
+"Kia Sportage",automatic,13147328,13030.06
+"Nissan Maxima",automatic,64257849,13018.20
+"Chevrolet Volt",automatic,5696100,13004.79
+"Volkswagen Beetle",manual,273050,13002.38
+"Subaru Impreza",automatic,6470750,12915.67
+"Infiniti EX35",automatic,669050,12866.35
+"Toyota Prius c",automatic,1401450,12857.34
+"Honda S2000",automatic,25700,12850.00
+"Audi A4",automatic,20072075,12825.61
+"Maserati Coupe",automatic,25500,12750.00
+"Lincoln MKZ Hybrid",automatic,127300,12730.00
+"BMW 5 Series",manual,838875,12710.23
+"Dodge Charger",automatic,46588961,12673.82
+"Volkswagen Beetle",automatic,4276550,12615.19
+"Volkswagen GLI",manual,201500,12593.75
+"Subaru Forester",manual,664250,12533.02
+"Pontiac G8",automatic,1039100,12519.28
+"Toyota Highlander",manual,12500,12500.00
+"Nissan Murano",automatic,27376233,12426.80
+"Dodge Journey",automatic,30849754,12409.39
+"Buick LaCrosse",automatic,12284559,12408.65
+"MINI Cooper Clubman",automatic,2133500,12404.07
+"Lincoln Mark LT",automatic,669450,12397.22
+"Ford Thunderbird",automatic,878750,12376.76
+"Hyundai Elantra Coupe",automatic,890550,12368.75
+"Volvo C30",automatic,295950,12331.25
+"Ram Dakota",automatic,369500,12316.67
+"Hyundai Tucson",automatic,8448500,12315.60
+"Ford Fusion",automatic,119591117,12231.88
+"Audi TT",automatic,647750,12221.70
+"Chevrolet Silverado 2500HD",manual,24400,12200.00
+"Volkswagen Touareg",automatic,2854350,12198.08
+"Ford C-Max Energi",automatic,2305000,12195.77
+"Lexus IS 250",manual,207250,12191.18
+"Lexus RX 400h",automatic,1728900,12175.35
+"Chevrolet Equinox",automatic,48286050,12175.00
+"Volkswagen R32",automatic,121000,12100.00
+"Mitsubishi Outlander Sport",manual,229000,12052.63
+"Volkswagen GLI",automatic,385550,12048.44
+"Honda Odyssey",automatic,33575125,11991.12
+"FIAT 500L",automatic,2360950,11984.52
+"Ford Expedition EL",automatic,514700,11969.77
+"Chrysler 300",automatic,36335634,11917.23
+"Jeep Compass",automatic,12498050,11914.25
+"Mitsubishi Outlander",automatic,5297200,11824.11
+"Chevrolet SSR",manual,11750,11750.00
+"Acura TSX",manual,480200,11712.20
+"Dodge Dart",automatic,9260553,11707.40
+"Lexus SC 430",automatic,946100,11680.25
+"Volkswagen Eos",automatic,1457700,11661.60
+"Kia Soul",automatic,24129759,11645.64
+"HUMMER H3",automatic,4037038,11600.68
+"Toyota Camry",automatic,116982682,11539.03
+"Volvo C70",automatic,1175227,11521.83
+"Nissan Versa Note",manual,240950,11473.81
+"Mazda MX-5 Miata",manual,1179575,11452.18
+"FIAT 500L",manual,91300,11412.50
+"Dodge Dart",manual,1220650,11407.94
+"BMW 3 Series",manual,4745300,11379.62
+"Chevrolet Cruze",automatic,55669038,11314.85
+"Nissan Altima",automatic,166447374,11286.86
+"Buick Regal",automatic,5312101,11278.35
+"Hyundai Elantra Coupe",manual,134900,11241.67
+"Jeep Patriot",automatic,15569925,11193.33
+"Dodge Grand Caravan",automatic,72102767,11178.72
+"Acura TL",automatic,17223000,11176.51
+"Hyundai Veracruz",automatic,1416575,11154.13
+"Infiniti FX35",automatic,2652550,11145.17
+"Mazda 3",automatic,222450,11122.50
+"HUMMER H3",manual,111200,11120.00
+"Chevrolet Spark EV",automatic,11000,11000.00
+"Chrysler 200",automatic,38202568,10968.29
+"MINI Cooper Clubman",manual,1035975,10905.00
+"Volkswagen Tiguan",manual,86950,10868.75
+"GMC Sierra 1500 Classic",automatic,466850,10856.98
+"Toyota Avalon",automatic,9277187,10837.84
+"Volkswagen GTI",automatic,1926950,10825.56
+"Volkswagen CC",manual,259800,10825.00
+"Hyundai Sonata",automatic,58059428,10823.91
+"Dodge Avenger",manual,21500,10750.00
+"Ford Transit Connect",automatic,5223350,10747.63
+"Ford F-350 Super Duty",manual,84800,10600.00
+"MINI Cooper",automatic,9514675,10501.85
+"Chevrolet Malibu",manual,10500,10500.00
+"Honda CR-Z",automatic,785850,10478.00
+"Volkswagen Touareg 2",automatic,282000,10444.44
+"Mercedes-Benz SLK-Class",manual,135500,10423.08
+"Cadillac CTS",automatic,15657031,10389.54
+"Kia Forte",automatic,23670401,10372.66
+"Mitsubishi Lancer Sportback",automatic,320900,10351.61
+"Nissan Leaf",automatic,12753746,10293.58
+"Toyota Prius",automatic,17001331,10272.71
+"Nissan Versa Note",automatic,3937501,10200.78
+"Mazda B-Series Truck",manual,40800,10200.00
+"Mazda Tribute Hybrid",automatic,20400,10200.00
+"Hyundai Elantra",automatic,50307179,10165.12
+"Ford Taurus",automatic,34125085,10156.28
+"Mercedes-Benz R-Class",automatic,2502900,10092.34
+"Mazda Mazda5",automatic,4989911,10080.63
+"Mazda RX-8",automatic,90700,10077.78
+"Ford F-250 Super Duty",manual,120850,10070.83
+"Hyundai Santa Fe",automatic,13351717,9956.54
+"GMC Canyon",automatic,995650,9956.50
+"Honda Accord",automatic,77899325,9915.90
+"Pontiac GTO",automatic,257650,9909.62
+"Mercury Milan Hybrid",automatic,59200,9866.67
+"Nissan Quest",automatic,5472953,9861.18
+"Mazda Mazda6",automatic,11144060,9809.91
+"Infiniti M35",automatic,2010800,9808.78
+"FIAT 500",manual,1468125,9787.50
+"Dodge Ram Pickup 1500",automatic,16220050,9777.00
+"Volkswagen Routan",automatic,1593100,9773.62
+"Mazda 6",automatic,242100,9684.00
+"Toyota Corolla",automatic,59815364,9652.31
+"Nissan 350Z",automatic,472700,9646.94
+"Pontiac GTO",manual,250350,9628.85
+"Scion tC",automatic,4081700,9604.00
+"Volkswagen Passat",automatic,22238157,9560.69
+"Mazda RX-8",manual,47600,9520.00
+"Honda CR-Z",manual,218500,9500.00
+"Volkswagen Golf",automatic,1859150,9485.46
+"Ford Escape Hybrid",automatic,1071290,9480.44
+"Mazda Mazda3",automatic,18628864,9470.70
+"Scion xD",automatic,1249700,9467.42
+"Ford Focus",automatic,72950573,9455.68
+"BMW M",manual,56650,9441.67
+"Honda Fit",automatic,2993625,9325.93
+"Chrysler 200",manual,9300,9300.00
+"Honda Insight",automatic,1848600,9289.45
+"Chevrolet Sonic",automatic,13489116,9277.25
+"Lexus RX 330",automatic,3376300,9250.14
+"Nissan Xterra",automatic,6745976,9203.24
+"Ford Fiesta",automatic,15476875,9168.76
+"Lincoln Blackwood",automatic,27500,9166.67
+"Chevrolet Express Cargo",automatic,8451000,9165.94
+"Chevrolet Cruze",manual,1569875,9127.18
+"Mazda CX-7",automatic,2641950,9110.17
+"Volkswagen GTI",manual,1389150,9079.41
+"Dodge Avenger",automatic,32222371,9058.86
+"Chevrolet Malibu",automatic,53079622,9028.68
+"Chevrolet Colorado",automatic,6189675,9022.85
+"Honda Civic",automatic,54387831,8992.70
+"Kia Soul",manual,1960950,8954.11
+"Nissan 350Z",manual,311600,8902.86
+"Scion iQ",automatic,1030450,8883.19
+"Scion tC",manual,1488400,8859.52
+"Lexus LS 430",automatic,2940050,8855.57
+"Chrysler Aspen",automatic,1648950,8817.91
+"Nissan Sentra",automatic,31500606,8816.29
+"Kia Rio",automatic,10338426,8813.66
+"Volvo XC90",automatic,4785600,8813.26
+"Dodge Nitro",automatic,4487200,8798.43
+"Ford Fiesta",manual,1255700,8781.12
+"Mazda 3",manual,26150,8716.67
+"Scion xD",manual,191500,8704.55
+"Saturn Sky",manual,138900,8681.25
+"Chevrolet Silverado 1500 Classic",automatic,1340000,8645.16
+"Jeep Patriot",manual,731850,8610.00
+"Mercury Marauder",automatic,34200,8550.00
+"Kia Borrego",automatic,589300,8540.58
+"MINI Cooper",manual,4994300,8537.26
+"GMC Sierra 1500HD",automatic,51200,8533.33
+"Ram C/V Tradesman",automatic,221700,8526.92
+"Ford Excursion",automatic,833250,8502.55
+"FIAT 500",automatic,2521652,8490.41
+"Mazda Mazda2",automatic,2467554,8479.57
+"Lexus LX 470",automatic,364100,8467.44
+"Mazda Mazda2",manual,270450,8451.56
+"Suzuki Kizashi",automatic,235400,8407.14
+"Jeep Liberty",automatic,16592208,8396.87
+"Scion xB",automatic,2640850,8383.65
+"Dodge Sprinter Cargo",automatic,810350,8354.12
+"Nissan Cube",automatic,1553550,8307.75
+"Audi A6",manual,24800,8266.67
+"Mitsubishi Lancer",automatic,6402953,8208.91
+"Mercedes-Benz E-Class",manual,16400,8200.00
+"Saturn Sky",automatic,220450,8164.81
+"Ford Ranger",manual,1958625,8160.94
+"Chevrolet Spark",automatic,2095676,8154.38
+"Acura TL",manual,220150,8153.70
+"Mazda Mazdaspeed Mazda3",manual,113300,8092.86
+"Mitsubishi Mirage",manual,137400,8082.35
+"Hyundai Elantra Touring",automatic,692175,8048.55
+"Hyundai Accent",automatic,12593652,8041.92
+"Chevrolet Impala",automatic,56727667,8028.26
+"Audi A3",manual,112150,8010.71
+"Ford Ranger",automatic,7523590,7986.83
+"Kia Sedona",automatic,6260832,7965.44
+"Hyundai Elantra Touring",manual,63600,7950.00
+"Lexus GS 300",automatic,1405750,7942.09
+"Chevrolet Sonic",manual,579000,7931.51
+"Mitsubishi Mirage",automatic,1391500,7906.25
+"Ford Explorer Sport Trac",automatic,1951200,7899.60
+"Kia Forte",manual,552650,7895.00
+"Mazda Mazda3",manual,2197400,7847.86
+"Infiniti FX45",automatic,235000,7833.33
+"Nissan Frontier",manual,837900,7830.84
+"Volkswagen Jetta",automatic,23250516,7817.93
+"Infiniti M45",automatic,428950,7799.09
+"Chevrolet Silverado 1500HD",automatic,279950,7776.39
+"Jeep Compass",manual,326590,7775.95
+"Dodge Ram Pickup 1500",manual,419300,7764.81
+"Dodge Sprinter",automatic,15400,7700.00
+"Saturn Outlook",automatic,1838500,7692.47
+"Nissan Versa",automatic,15495931,7678.86
+"Toyota Yaris",automatic,7909434,7671.61
+"Chevrolet Spark",manual,253150,7671.21
+"Jeep Commander",automatic,4390200,7661.78
+"Mercedes-Benz CLK-Class",automatic,2723350,7543.91
+"Honda Fit",manual,512650,7538.97
+"Honda Civic",manual,5255900,7497.72
+"Mitsubishi i-MiEV",automatic,119600,7475.00
+"GMC Sierra 2500",automatic,22400,7466.67
+"Audi A4",manual,1163975,7413.85
+"Hyundai Sonata",manual,287500,7371.79
+"Cadillac CTS",manual,138750,7302.63
+"Lexus GS 430",automatic,321250,7301.14
+"Pontiac Solstice",automatic,291600,7290.00
+"Cadillac DTS",automatic,3303800,7277.09
+"Volkswagen Eos",manual,87300,7275.00
+"Honda Element",automatic,1476370,7272.76
+"Infiniti G35",manual,595750,7265.24
+"Mazda Mazda6",manual,731500,7242.57
+"Nissan Altima Hybrid",automatic,531200,7178.38
+"Ram C/V Cargo Van",automatic,257500,7152.78
+"Nissan Versa",manual,1076050,7126.16
+"Pontiac Firebird",manual,56800,7100.00
+"Chevrolet Impala",manual,7100,7100.00
+"Ford F-150 SVT Lightning",automatic,21250,7083.33
+"Cadillac STS",automatic,1633350,7010.09
+"Dodge Nitro",manual,62800,6977.78
+"Ford Econoline Wagon",automatic,515100,6960.81
+"Ford Mustang SVT Cobra",manual,75950,6904.55
+"Subaru Baja",automatic,220650,6895.31
+"Ford Fusion",manual,399000,6879.31
+"Subaru Baja",manual,41200,6866.67
+"Subaru Outback",manual,322550,6862.77
+"Mercury Mariner",automatic,1597000,6854.08
+"Infiniti G35",automatic,5509950,6777.31
+"Kia Sorento",manual,210050,6775.81
+"Mazda Mazda5",manual,47250,6750.00
+"BMW 8 Series",automatic,6750,6750.00
+"Honda Accord",manual,1940400,6737.50
+"Nissan Cube",manual,127600,6715.79
+"Volvo V70",manual,6700,6700.00
+"Scion xB",manual,555450,6692.17
+"Hyundai Elantra",manual,1018475,6613.47
+"Chevrolet Silverado 1500 Classic",manual,39500,6583.33
+"Buick Lucerne",automatic,2865460,6527.24
+"Pontiac Solstice",manual,260350,6508.75
+"Saturn VUE Hybrid",automatic,77400,6450.00
+"Volkswagen Golf",manual,268150,6384.52
+"Chevrolet Silverado 2500",automatic,133700,6366.67
+"smart fortwo",automatic,2057900,6351.54
+"Volvo V50",automatic,228650,6351.39
+"Mitsubishi Lancer",manual,875575,6344.75
+"Toyota Yaris",manual,529300,6301.19
+"Lexus ES 330",automatic,1751650,6300.90
+"Mitsubishi Raider",automatic,119450,6286.84
+"Volkswagen Phaeton",automatic,37300,6216.67
+"Volvo C70",manual,12400,6200.00
+"Subaru B9 Tribeca",automatic,416450,6124.26
+"Mazda Mazdaspeed Mazda6",manual,79150,6088.46
+"Volkswagen Passat",manual,541225,6081.18
+"Suzuki Grand Vitara",automatic,1003675,6046.23
+"Kia Optima",manual,157100,6042.31
+"Mercury Mariner Hybrid",automatic,114800,6042.11
+"Mercedes-Benz C-Class",manual,196925,5967.42
+"BMW X5",manual,41700,5957.14
+"Hyundai Tucson",manual,100100,5888.24
+"Ford Focus",manual,2076675,5882.93
+"Audi TT",manual,273050,5809.57
+"Chevrolet HHR",manual,81200,5800.00
+"Volkswagen Jetta",manual,2686275,5789.39
+"Toyota Corolla",manual,1272400,5783.64
+"Mazda 6",manual,11550,5775.00
+"Dodge Dakota",automatic,2550885,5706.68
+"Toyota Matrix",automatic,1287475,5696.79
+"Volvo S80",automatic,1259575,5673.76
+"Hyundai Accent",manual,627625,5603.79
+"Jaguar XJ-Series",automatic,801200,5602.80
+"Chevrolet Malibu Hybrid",automatic,122200,5554.55
+"Kia Sportage",manual,193300,5522.86
+"Volkswagen R32",manual,5500,5500.00
+"Kia Rio",manual,411670,5488.93
+"Hyundai Santa Fe",manual,65750,5479.17
+"Dodge Caliber",manual,357300,5332.84
+"Chrysler Crossfire",manual,94850,5269.44
+"Nissan Sentra",manual,795650,5234.54
+"Suzuki SX4",automatic,1126775,5192.51
+"Isuzu i-Series",automatic,30800,5133.33
+"Isuzu i-Series",manual,15200,5066.67
+"Chrysler Crossfire",automatic,136500,5055.56
+"Chevrolet HHR",automatic,4710900,5038.40
+"Subaru Legacy",manual,281950,5034.82
+"Nissan Xterra",manual,266300,5024.53
+"Mitsubishi Lancer Sportback",manual,5000,5000.00
+"Mazda B-Series Truck",automatic,10000,5000.00
+"Acura RL",automatic,423925,4987.35
+"Saab 9-7X",automatic,229100,4980.43
+"Ford Taurus X",automatic,323650,4979.23
+"Nissan Altima",manual,466150,4959.04
+"BMW X3",manual,39600,4950.00
+"Dodge Caliber",automatic,5375925,4936.57
+"Pontiac Torrent",automatic,1098800,4861.95
+"Acura RSX",manual,311450,4791.54
+"Toyota Camry Solara",automatic,1362850,4781.93
+"Chevrolet Colorado",manual,153000,4781.25
+"Mercury Milan",automatic,1086350,4743.89
+"Toyota Camry",manual,317200,4734.33
+"Lexus IS 300",manual,47300,4730.00
+"Volkswagen Rabbit",automatic,248250,4683.96
+"Lincoln Zephyr",automatic,385900,4649.40
+"Ford Econoline Cargo",automatic,2102600,4641.50
+"BMW Z3",manual,120550,4636.54
+"Saturn Aura",automatic,1772325,4627.48
+"Honda CR-V",manual,146100,4565.63
+"Suzuki SX4",manual,198250,4505.68
+"Pontiac G6",automatic,6531126,4501.12
+"Lincoln Town Car",automatic,998075,4495.83
+"BMW Z3",automatic,121150,4487.04
+"Saab 9-2X",automatic,26900,4483.33
+"Suzuki XL7",automatic,558120,4464.96
+"Pontiac Vibe",automatic,716600,4450.93
+"Lexus LX 450",automatic,17800,4450.00
+"Ford Escape",manual,181515,4427.20
+"GMC Canyon",manual,17700,4425.00
+"Chevrolet TrailBlazer",automatic,4302350,4367.87
+"Pontiac G6",manual,26100,4350.00
+"Pontiac G3",automatic,52200,4350.00
+"Dodge Magnum",automatic,1400350,4322.07
+"Toyota MR2 Spyder",automatic,21600,4320.00
+"Acura RSX",automatic,250200,4313.79
+"Volkswagen Rabbit",manual,72950,4291.18
+"Lexus RX 300",automatic,1020000,4232.37
+"Toyota Tundra",manual,29550,4221.43
+"Hyundai Entourage",automatic,248900,4218.64
+"Lexus IS 300",automatic,404550,4214.06
+"Jeep Liberty",manual,160125,4213.82
+"GMC Envoy",automatic,2303725,4211.56
+"Pontiac G3",manual,12600,4200.00
+"Mitsubishi Eclipse",automatic,1002775,4195.71
+"Honda Element",manual,112800,4177.78
+"Toyota Matrix",manual,178800,4158.14
+"Volvo S60",manual,53200,4092.31
+"Mazda Mazdaspeed MX-5 Miata",manual,12100,4033.33
+"Mercury Mountaineer",automatic,1048150,4031.35
+"Dodge Dakota",manual,79600,3980.00
+"Chevrolet Silverado 1500",manual,71050,3947.22
+"Saturn Astra",automatic,137050,3915.71
+"Chrysler Pacifica",automatic,719750,3911.68
+"GMC Sierra 1500",manual,11600,3866.67
+"Ford Crown Victoria",automatic,324575,3863.99
+"Mitsubishi Galant",automatic,1845625,3797.58
+"Volkswagen New Beetle",automatic,2043350,3776.99
+"Mitsubishi Eclipse Spyder",automatic,384350,3768.14
+"Chevrolet Silverado 3500",manual,3750,3750.00
+"GMC Envoy XL",automatic,789900,3725.94
+"Ford F-150",manual,332875,3698.61
+"Pontiac Vibe",manual,59000,3687.50
+"Volvo S40",automatic,1083050,3634.40
+"Mitsubishi Eclipse",manual,333625,3626.36
+"Chevrolet Aveo",automatic,2301900,3625.04
+"Saab 9-3",automatic,813875,3617.22
+"Mitsubishi Endeavor",automatic,555800,3609.09
+"Saturn Aura Hybrid",automatic,14400,3600.00
+"Volvo S40",manual,68150,3586.84
+"Saturn Astra",manual,35750,3575.00
+"Saab 9-5",automatic,185825,3573.56
+"Saturn VUE",automatic,2395375,3559.25
+"Lexus ES 300",automatic,1000925,3536.84
+"GMC Sonoma",automatic,155525,3534.66
+"Pontiac G5",automatic,300400,3534.12
+"GMC Envoy XUV",automatic,169000,3520.83
+"Kia Rondo",automatic,480875,3510.04
+"Suzuki Grand Vitara",manual,28000,3500.00
+"Chevrolet C/K 3500 Series",automatic,14000,3500.00
+"Chevrolet Cobalt",manual,511975,3459.29
+"Pontiac Firebird",automatic,145250,3458.33
+"Chevrolet Cobalt",automatic,4499975,3453.55
+"Chevrolet TrailBlazer EXT",automatic,572600,3449.40
+"Lincoln Aviator",automatic,342750,3427.50
+"Mitsubishi Eclipse Spyder",manual,57900,3405.88
+"Ford F-150 Heritage",manual,10200,3400.00
+"Buick Terraza",automatic,161300,3360.42
+"Buick Rainier",automatic,275000,3353.66
+"Hyundai Tiburon",automatic,318630,3319.06
+"Saab 9-2X",manual,6600,3300.00
+"Lexus SC 300",manual,3300,3300.00
+"Mazda Truck",manual,6550,3275.00
+"Volvo V50",manual,13000,3250.00
+"Mercury Grand Marquis",automatic,1120625,3238.80
+"Infiniti Q45",automatic,116000,3222.22
+"Toyota MR2 Spyder",manual,25600,3200.00
+"Kia Amanti",automatic,248400,3184.62
+"Pontiac G5",manual,82750,3182.69
+"Chrysler Sebring",automatic,3597990,3115.14
+"Mercedes-Benz ML55 AMG",automatic,3100,3100.00
+"Scion xA",automatic,52650,3097.06
+"Ford F-150 Heritage",automatic,79900,3073.08
+"Volkswagen EuroVan",automatic,9100,3033.33
+"Chevrolet Malibu Classic",automatic,114800,3021.05
+"Ford Five Hundred",automatic,961275,3003.98
+"Mercury Montego",automatic,237250,3003.16
+"Chrysler Pacifica",manual,3000,3000.00
+"Mazda Tribute",manual,11900,2975.00
+"Jaguar S-Type",automatic,611550,2968.69
+"Mazda Tribute",automatic,525550,2952.53
+"Chevrolet Uplander",automatic,865525,2933.98
+"Pontiac Montana SV6",automatic,5850,2925.00
+"Buick Rendezvous",automatic,680000,2893.62
+"Honda Prelude",automatic,14200,2840.00
+"Chevrolet S-10",automatic,439400,2834.84
+"Hyundai Tiburon",manual,169050,2817.50
+"Isuzu Ascender",automatic,92200,2793.94
+"Mitsubishi Montero",automatic,130100,2768.09
+"Infiniti I35",automatic,242900,2760.23
+"Lexus SC 400",automatic,30250,2750.00
+"Mercury Milan",manual,22000,2750.00
+"Jaguar X-Type",automatic,403825,2728.55
+"Kia Spectra",automatic,915175,2723.74
+"Mazda Truck",automatic,5400,2700.00
+"Chevrolet Aveo",manual,164600,2698.36
+"Audi allroad quattro",automatic,70000,2692.31
+"Mercedes-Benz 500-Class",automatic,18800,2685.71
+"Volkswagen New Beetle",manual,290850,2668.35
+"Chevrolet Malibu Maxx",automatic,396600,2661.74
+"Ford Freestyle",automatic,647375,2642.35
+"Dodge Neon",manual,78200,2606.67
+"Pontiac Grand Prix",automatic,2239200,2594.67
+"Chevrolet Monte Carlo",automatic,853025,2592.78
+"Saab 9-3",manual,143650,2565.18
+"Nissan Pathfinder",manual,17650,2521.43
+"Toyota Celica",manual,75150,2505.00
+"Toyota Camry Solara",manual,12300,2460.00
+"Lexus LS 400",automatic,170950,2442.14
+"Chevrolet C/K 1500 Series",automatic,31375,2413.46
+"Lexus GS 400",automatic,40600,2388.24
+"Mercedes-Benz 400-Class",automatic,2350,2350.00
+"Chrysler PT Cruiser",automatic,2336575,2318.03
+"Infiniti QX4",automatic,104100,2313.33
+"Chevrolet Astro",automatic,81775,2271.53
+"GMC Safari",automatic,6800,2266.67
+"Chevrolet Astro Cargo",automatic,81550,2265.28
+"Mitsubishi 3000GT",automatic,4500,2250.00
+"Toyota ECHO",automatic,65850,2195.00
+"Saturn Relay",automatic,117200,2170.37
+"Toyota T100",automatic,8550,2137.50
+"Saturn ION",automatic,760400,2135.96
+"Honda Insight",manual,6400,2133.33
+"Toyota Celica",automatic,97750,2125.00
+"Suzuki XL-7",automatic,108225,2122.06
+"Buick Roadmaster",automatic,6350,2116.67
+"Mercury Monterey",automatic,81600,2092.31
+"Kia Spectra",manual,120500,2077.59
+"Nissan Maxima",manual,74500,2069.44
+"GMC Safari Cargo",automatic,4100,2050.00
+"Buick LeSabre",automatic,797275,2044.29
+"Cadillac Eldorado",automatic,94525,2011.17
+"Toyota Pickup",automatic,2000,2000.00
+"Land Rover Freelander",automatic,71650,1990.28
+"Volvo XC",automatic,37100,1952.63
+"Volvo V70",automatic,262725,1931.80
+"Chrysler PT Cruiser",manual,106200,1930.91
+"Acura CL",automatic,147950,1921.43
+"Saturn VUE",manual,119050,1920.16
+"Toyota Pickup",manual,7600,1900.00
+"Suzuki Verona",automatic,26425,1887.50
+"Toyota RAV4",manual,20750,1886.36
+"Hyundai XG350",automatic,116625,1881.05
+"Toyota 4Runner",manual,14950,1868.75
+"Acura Integra",manual,12850,1835.71
+"Isuzu Axiom",automatic,31200,1835.29
+"Mitsubishi Outlander",manual,3650,1825.00
+"Mazda Mazdaspeed Protege",manual,7300,1825.00
+"Dodge Caravan",automatic,331750,1822.80
+"Chevrolet C/K 2500 Series",automatic,1800,1800.00
+"Lincoln LS",automatic,322100,1789.44
+"Buick Riviera",automatic,5300,1766.67
+"Chevrolet Tracker",automatic,70450,1761.25
+"Cadillac DeVille",automatic,896320,1760.94
+"Saturn L300",automatic,38650,1756.82
+"Ford Freestar",automatic,393575,1749.22
+"Toyota ECHO",manual,17450,1745.00
+"Mazda MPV",automatic,173975,1739.75
+"Chevrolet C/K 1500 Series",manual,5200,1733.33
+"Ford Explorer Sport Trac",manual,3400,1700.00
+"Land Rover Discovery Series II",automatic,42250,1690.00
+"Honda Prelude",manual,8450,1690.00
+"Chevrolet S-10",manual,50650,1688.33
+"Pontiac Montana",automatic,114675,1686.40
+"Suzuki Vitara",automatic,5050,1683.33
+"Mazda Protege5",automatic,43750,1682.69
+"Scion xA",manual,6650,1662.50
+"Mazda Protege5",manual,19900,1658.33
+"Suzuki Reno",automatic,59550,1654.17
+"GMC Yukon Denali",automatic,9900,1650.00
+"Mazda B-Series Pickup",manual,3300,1650.00
+"Mercury Sable",automatic,289400,1635.03
+"Buick Park Avenue",automatic,163425,1618.07
+"Isuzu Amigo",automatic,1600,1600.00
+"Chevrolet Prizm",manual,1600,1600.00
+"Saturn ION",manual,98100,1582.26
+"Hyundai XG300",automatic,11050,1578.57
+"Volkswagen Cabrio",manual,6300,1575.00
+"Chevrolet Classic",automatic,70725,1571.67
+"Infiniti I30",automatic,71725,1559.24
+"Lexus SC 300",automatic,12450,1556.25
+"Volvo V40",automatic,24900,1556.25
+"Suzuki Forenza",automatic,296375,1535.62
+"Pontiac Bonneville",automatic,165725,1534.49
+"Suzuki Reno",manual,4550,1516.67
+"Buick Century",automatic,265650,1484.08
+"Isuzu Trooper",manual,2900,1450.00
+"Suzuki Aerio",automatic,17000,1416.67
+"Mercedes-Benz 420-Class",automatic,1400,1400.00
+"Cadillac Seville",automatic,186900,1394.78
+"Dodge Stratus",automatic,342675,1387.35
+"Land Rover Discovery",automatic,9625,1375.00
+"Mitsubishi Montero Sport",automatic,167355,1349.64
+"Honda Passport",automatic,34475,1325.96
+"Ford Explorer Sport",automatic,99675,1311.51
+"Dodge Neon",automatic,219975,1301.63
+"Nissan Truck",manual,10400,1300.00
+"Suzuki Forenza",manual,25850,1292.50
+"Lincoln Continental",automatic,72200,1289.29
+"Volkswagen Cabrio",automatic,30900,1287.50
+"Nissan Truck",automatic,7700,1283.33
+"Dodge Ram Cargo",automatic,6400,1280.00
+"GMC Suburban",automatic,17450,1246.43
+"Pontiac Grand Am",automatic,439100,1243.91
+"Chevrolet Prizm",automatic,29300,1220.83
+"Isuzu Rodeo",automatic,89975,1215.88
+"Isuzu Rodeo Sport",automatic,1200,1200.00
+"Ford E-350",automatic,1200,1200.00
+"Chrysler 300M",automatic,95400,1192.50
+"Saturn L-Series",automatic,187050,1191.40
+"Oldsmobile Bravada",automatic,47550,1188.75
+"Dodge Stratus",manual,5900,1180.00
+"Jeep Cherokee",manual,7050,1175.00
+"Chevrolet Tahoe Limited/Z71",automatic,5825,1165.00
+"Pontiac Sunfire",manual,8150,1164.29
+"Mazda Millenia",automatic,52100,1157.78
+"GMC Sonoma",manual,3450,1150.00
+"Jaguar X-Type",manual,5750,1150.00
+"Mazda B-Series Pickup",automatic,6800,1133.33
+"Mercury Villager",automatic,8950,1118.75
+"Infiniti G20",automatic,21175,1114.47
+"Acura Integra",automatic,32150,1108.62
+"Pontiac Aztek",automatic,8850,1106.25
+"Chevrolet Blazer",automatic,300675,1093.36
+"Nissan 200SX",manual,3250,1083.33
+"Chrysler Voyager",automatic,11700,1063.64
+"Saab 9-5",manual,4250,1062.50
+"Chevrolet Venture",automatic,157145,1061.79
+"Oldsmobile Aurora",automatic,37775,1049.31
+"Oldsmobile Silhouette",automatic,35375,1040.44
+"Mazda Protege",automatic,73500,1035.21
+"Ford Windstar",automatic,109575,1024.07
+"Chrysler Concorde",automatic,61200,1020.00
+"Mercury Cougar",manual,4050,1012.50
+"Suzuki Sidekick",automatic,1000,1000.00
+"Ford E-250",automatic,2000,1000.00
+"GMC Jimmy",manual,1000,1000.00
+"Mazda Protege",manual,14950,996.67
+"Pontiac Sunfire",automatic,66700,995.52
+"Chevrolet Tracker",manual,4950,990.00
+"Mercedes-Benz 300-Class",automatic,7900,987.50
+"GMC Jimmy",automatic,30425,981.45
+"Cadillac Catera",automatic,22525,979.35
+"Lincoln Mark VIII",automatic,6850,978.57
+"Chevrolet Cavalier",automatic,277625,970.72
+"Oldsmobile Alero",automatic,104750,969.91
+"Mercury Mystique",automatic,1900,950.00
+"Toyota Tercel",manual,950,950.00
+"Saturn L-Series",manual,1850,925.00
+"Oldsmobile Intrigue",automatic,39225,912.21
+"Isuzu Trooper",automatic,20550,893.48
+"Mazda 626",automatic,50525,886.40
+"Oldsmobile Eighty-Eight",automatic,10300,858.33
+"Chevrolet Caprice",automatic,5125,854.17
+"Mitsubishi Diamante",automatic,16975,848.75
+"Chrysler LHS",automatic,16525,826.25
+"Ford Explorer",manual,5700,814.29
+"Mercury Cougar",automatic,17900,813.64
+"Acura CL",manual,3250,812.50
+"Saturn S-Series",automatic,174550,793.41
+"Suzuki Esteem",manual,1500,750.00
+"Mazda MPV",manual,750,750.00
+"Chevrolet Lumina",automatic,30000,731.71
+"Volvo S70",automatic,40175,730.45
+"Ford Contour",automatic,4350,725.00
+"Chrysler Cirrus",automatic,13425,706.58
+"Geo Prizm",manual,2800,700.00
+"Volvo 940",automatic,1400,700.00
+"Chevrolet Blazer",manual,1400,700.00
+"Chevrolet Cavalier",manual,15900,691.30
+"Mercedes-Benz 190-Class",automatic,1375,687.50
+"Volvo S90",automatic,4750,678.57
+"Dodge Intrepid",automatic,56125,676.20
+"Acura Legend",automatic,4625,660.71
+"Saturn S-Series",manual,39500,658.33
+"Ford E-150",automatic,1300,650.00
+"Chevrolet S-10 Blazer",automatic,1300,650.00
+"Ford Escort",automatic,45725,635.07
+"Kia Sephia",automatic,6300,630.00
+"Suzuki Vitara",manual,600,600.00
+"Oldsmobile Cutlass",automatic,6500,590.91
+"Ford Escort",manual,9350,550.00
+"Kia Sephia",manual,1100,550.00
+"Isuzu Rodeo",manual,1650,550.00
+"Geo Prizm",automatic,6025,547.73
+"Nissan 200SX",automatic,2725,545.00
+"Toyota Tercel",automatic,7350,525.00
+"Oldsmobile Eighty-Eight Royale",automatic,1050,525.00
+"Ford Explorer Sport",manual,500,500.00
+"Plymouth Breeze",automatic,1000,500.00
+"Infiniti G20",manual,1000,500.00
+"Ford Aspire",manual,500,500.00
+"Ford Aspire",automatic,500,500.00
+"Chevrolet S-10 Blazer",manual,500,500.00
+"Oldsmobile Achieva",automatic,500,500.00
+"Volvo 960",automatic,2475,495.00
+"Mazda 626",manual,1900,475.00
+"Volvo 850",automatic,7500,468.75
+"Plymouth Neon",automatic,1875,468.75
+"Daewoo Nubira",automatic,900,450.00
+"Infiniti J30",automatic,1300,433.33
+"Oldsmobile Cutlass Supreme",automatic,4075,407.50
+"Geo Metro",automatic,400,400.00
+"Volvo 850",manual,1125,375.00
+"Nissan 300ZX",manual,750,375.00
+"Oldsmobile Cutlass Ciera",automatic,2150,358.33
+"Chevrolet Corsica",automatic,350,350.00
+"Ford Tempo",automatic,1000,333.33
+"Mercury Tracer",automatic,1250,312.50
+"Dodge Spirit",automatic,300,300.00
+"Ford Windstar Cargo",automatic,775,258.33
+"Toyota Paseo",automatic,150,150.00
