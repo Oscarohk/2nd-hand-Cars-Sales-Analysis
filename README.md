@@ -93,7 +93,7 @@ In the initial data preparation phase, the following tasks were performed:
   - Overall difference between each selling price and market price of the cars
 
 ## Results/Findings
-View the dashboard in [here](https://app.powerbi.com/groups/me/reports/b3644ff2-4a32-42ed-8357-852cbce65cbe/2ec90e14580ab1e644a8?experience=power-bi).
+View the dashboard in [here](https://app.powerbi.com/reportEmbed?reportId=b3644ff2-4a32-42ed-8357-852cbce65cbe&autoAuth=true&ctid=6c1d4152-39d0-44ca-88d9-b8d6ddca0708).
 
 ![螢幕擷取畫面 (241)](https://github.com/user-attachments/assets/af67afc6-34de-4fea-b3f3-5650db324450)
 
